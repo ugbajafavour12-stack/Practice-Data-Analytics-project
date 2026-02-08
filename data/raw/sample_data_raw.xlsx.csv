@@ -1,0 +1,2551 @@
+Gender,Marital_Status,Employment_Type,Education_Level,Loan_Purpose,Age,Loan_Amount,Tenure_Months,Income
+Female,Widowed,Unemployed,Diploma,Medical,56,368918,31,892672
+Female,Married,Self-employed,Master,Medical,46,499626,30,55586
+Male,Divorced,Unemployed,High School,Housing,32,298859,15,1068725
+Male,Widowed,Self-employed,Master,Personal,60,824037,58,958806
+Female,Single,Self-employed,Master,Medical,25,634141,20,819565
+Male,Widowed,Salaried,Master,Housing,38,565462,27,1654050
+Female,Married,Salaried,Bachelor,Housing,56,937460,56,1649792
+Female,Divorced,Unemployed,Diploma,Medical,36,507660,53,1852200
+Female,Divorced,Salaried,High School,Education,40,86373,26,1837023
+Male,Single,Salaried,Master,Medical,28,865684,27,1483710
+Female,Single,Unemployed,PhD,Medical,28,203021,41,1447749
+Female,Divorced,Unemployed,Master,Education,41,203718,39,594999
+Male,Single,Unemployed,PhD,Education,53,604305,35,1677826
+Male,Divorced,Self-employed,Master,Medical,57,73037,30,70039
+Male,Widowed,Self-employed,PhD,Education,41,624106,50,1659425
+Male,Married,Salaried,High School,Medical,20,540836,33,256555
+Male,Single,Unemployed,Diploma,Business,39,651269,6,1589663
+Male,Single,Unemployed,Master,Education,19,244213,54,1048899
+Male,Single,Unemployed,Master,Housing,41,214366,50,1318306
+Male,Single,Unemployed,Diploma,Personal,61,512420,9,51577
+Female,Divorced,Self-employed,Master,Business,47,164249,12,157792
+Female,Single,Salaried,PhD,Housing,55,296166,54,995854
+Female,Married,Unemployed,Diploma,Personal,19,640585,14,1870844
+Female,Single,Self-employed,Master,Housing,38,670902,41,1337116
+Female,Divorced,Unemployed,High School,Medical,50,232084,24,1001302
+Female,Widowed,Salaried,High School,Housing,29,499536,6,1327082
+Female,Single,Unemployed,Master,Personal,39,70428,15,1835353
+Male,Widowed,Self-employed,Diploma,Housing,61,688100,41,60785
+Male,Divorced,Self-employed,Bachelor,Education,42,331497,14,1170803
+Female,Widowed,Self-employed,High School,Personal,44,647420,50,955112
+Male,Widowed,Unemployed,High School,Business,59,197604,51,898389
+Female,Widowed,Salaried,PhD,Personal,45,550340,47,1688295
+Female,Single,Self-employed,Bachelor,Education,33,110689,37,1509089
+Female,Widowed,Salaried,High School,Personal,32,712436,37,908326
+Female,Widowed,Salaried,High School,Housing,64,456636,11,1346517
+Male,Divorced,Salaried,Master,Personal,61,666031,53,1817708
+Male,Widowed,Salaried,PhD,Education,20,272307,43,200653
+Female,Widowed,Unemployed,Bachelor,Medical,54,313568,22,367336
+Female,Divorced,Self-employed,PhD,Housing,24,512754,15,313606
+Male,Married,Salaried,High School,Personal,38,981248,55,440992
+Male,Single,Self-employed,PhD,Education,26,473547,32,1818109
+Female,Single,Self-employed,High School,Housing,56,413850,59,983015
+Male,Divorced,Unemployed,Bachelor,Medical,35,145870,55,1436826
+Female,Married,Salaried,Bachelor,Medical,21,294564,40,1409385
+Male,Widowed,Salaried,High School,Business,42,520259,57,1798350
+Female,Married,Salaried,Diploma,Personal,31,654863,26,1441730
+Female,Divorced,Unemployed,High School,Housing,26,792518,30,1695437
+Male,Married,Salaried,High School,Medical,43,301444,33,274737
+Male,Married,Salaried,Master,Business,19,886313,52,944235
+Male,Single,Self-employed,Bachelor,Housing,37,20749,20,693970
+Female,Widowed,Salaried,Diploma,Personal,45,638419,9,1636250
+Female,Widowed,Unemployed,Diploma,Housing,64,690481,34,436213
+Female,Married,Self-employed,Bachelor,Housing,24,924995,14,1153036
+Female,Single,Salaried,Master,Education,61,309631,32,449437
+Male,Single,Salaried,Master,Housing,25,235019,31,466690
+Male,Married,Self-employed,Diploma,Personal,64,436577,24,1073577
+Male,Widowed,Self-employed,PhD,Medical,52,817655,33,1213951
+Male,Divorced,Self-employed,High School,Personal,31,607218,22,949092
+Male,Married,Unemployed,Master,Personal,34,679416,48,202117
+Male,Widowed,Salaried,Diploma,Personal,53,300524,46,927751
+Female,Widowed,Salaried,PhD,Business,57,822467,47,1215158
+Female,Married,Self-employed,High School,Medical,21,827052,55,1597485
+Male,Divorced,Unemployed,Diploma,Business,19,947381,25,972426
+Female,Divorced,Self-employed,Master,Housing,23,266553,50,1865879
+Female,Married,Salaried,Master,Personal,59,458532,45,728066
+Male,Married,Unemployed,Diploma,Medical,21,729401,44,1927779
+Male,Divorced,Self-employed,Bachelor,Personal,46,389504,54,1675199
+Male,Single,Self-employed,Bachelor,Housing,35,63352,58,1851951
+Male,Single,Self-employed,PhD,Medical,43,434127,28,102949
+Male,Divorced,Self-employed,High School,Housing,61,173856,52,513930
+Male,Widowed,Self-employed,High School,Education,51,13191,37,145558
+Male,Married,Self-employed,Diploma,Housing,27,960664,57,1507032
+Female,Single,Unemployed,Diploma,Housing,53,886968,52,1059260
+Male,Single,Unemployed,Bachelor,Housing,31,638864,38,1987280
+Male,Married,Unemployed,High School,Education,48,205713,51,839148
+Male,Single,Self-employed,High School,Personal,32,452939,10,1246222
+Female,Divorced,Self-employed,Bachelor,Personal,25,13631,48,1865751
+Female,Married,Salaried,Diploma,Business,31,147244,53,1565509
+Male,Widowed,Unemployed,PhD,Education,40,314224,39,1603091
+Male,Widowed,Salaried,Diploma,Business,57,230169,45,767186
+Male,Divorced,Unemployed,Master,Medical,38,624641,16,1774149
+Male,Single,Salaried,Master,Personal,33,423497,55,121916
+Male,Widowed,Self-employed,Diploma,Education,62,562959,8,1820087
+Male,Divorced,Unemployed,Diploma,Medical,35,657099,38,1358166
+Female,Divorced,Salaried,Master,Business,64,716791,16,822378
+Male,Divorced,Unemployed,High School,Medical,41,231972,21,1673770
+Male,Married,Unemployed,High School,Medical,43,787499,23,1885471
+Female,Married,Salaried,Diploma,Education,42,399878,35,1173270
+Male,Widowed,Self-employed,High School,Medical,62,758321,53,463867
+Male,Single,Unemployed,Bachelor,Housing,58,518679,15,905126
+Male,Widowed,Self-employed,Diploma,Personal,46,431818,23,1380728
+Male,Single,Self-employed,Diploma,Business,32,754149,43,1079242
+Female,Divorced,Unemployed,PhD,Business,62,847831,24,120474
+Male,Married,Salaried,High School,Personal,18,688832,41,1661049
+Male,Divorced,Unemployed,Bachelor,Education,42,714590,18,400068
+Male,Married,Self-employed,Bachelor,Housing,24,17099,51,1360624
+Male,Married,Self-employed,Diploma,Personal,26,783974,8,1041921
+Male,Single,Unemployed,PhD,Medical,41,428647,15,1879438
+Male,Widowed,Unemployed,Bachelor,Housing,18,590780,43,776499
+Female,Widowed,Salaried,PhD,Business,61,106722,6,871412
+Female,Single,Salaried,Diploma,Education,25,975188,32,1645368
+Male,Single,Self-employed,PhD,Housing,41,564399,51,1153546
+Female,Married,Unemployed,High School,Housing,28,73936,13,1377486
+Male,Divorced,Unemployed,Diploma,Medical,34,687974,56,691232
+Male,Married,Self-employed,PhD,Business,25,233332,51,1978930
+Female,Single,Unemployed,Bachelor,Personal,52,969495,47,454911
+Female,Married,Salaried,High School,Housing,52,735836,22,461012
+Male,Widowed,Self-employed,High School,Personal,50,783319,14,1272191
+Female,Single,Unemployed,High School,Housing,22,333064,11,1596242
+Male,Married,Self-employed,Diploma,Business,59,497510,48,1787075
+Male,Divorced,Unemployed,Diploma,Medical,56,73530,30,1219070
+Female,Widowed,Unemployed,PhD,Medical,58,439440,44,1857805
+Male,Single,Salaried,Diploma,Education,45,279932,54,1631666
+Female,Widowed,Self-employed,Master,Personal,24,562370,33,221277
+Male,Married,Unemployed,Diploma,Medical,26,919719,38,541966
+Male,Single,Self-employed,Bachelor,Housing,25,623858,59,346303
+Male,Married,Salaried,High School,Education,29,635303,42,1110092
+Male,Single,Unemployed,High School,Personal,51,742176,14,1411212
+Male,Divorced,Unemployed,PhD,Business,50,880020,23,865518
+Female,Widowed,Salaried,Diploma,Personal,40,157603,26,1736622
+Male,Widowed,Self-employed,Diploma,Business,41,884772,7,1653344
+Male,Married,Salaried,PhD,Education,54,628727,48,233163
+Male,Widowed,Salaried,Master,Business,52,972361,43,1226599
+Male,Widowed,Self-employed,Bachelor,Personal,61,151214,45,422339
+Female,Single,Self-employed,Master,Medical,57,649341,41,1277414
+Male,Divorced,Unemployed,Diploma,Housing,39,582643,55,875169
+Female,Widowed,Self-employed,Master,Medical,44,413082,48,321409
+Female,Divorced,Self-employed,Bachelor,Medical,52,211139,42,688453
+Male,Widowed,Unemployed,High School,Business,18,768994,20,693789
+Female,Married,Unemployed,Bachelor,Education,52,659714,33,1872193
+Female,Widowed,Unemployed,High School,Business,54,598315,23,1431710
+Male,Divorced,Self-employed,PhD,Personal,64,461122,39,544670
+Female,Divorced,Salaried,Diploma,Housing,31,169210,27,851818
+Female,Single,Self-employed,Master,Housing,20,102601,16,1989726
+Female,Widowed,Unemployed,Diploma,Medical,18,39956,18,873857
+Male,Single,Salaried,PhD,Business,22,248340,9,171635
+Female,Divorced,Self-employed,Bachelor,Education,43,639085,27,748614
+Female,Divorced,Salaried,Diploma,Personal,31,921349,12,270935
+Female,Divorced,Self-employed,Bachelor,Medical,56,922735,48,1610142
+Female,Married,Unemployed,High School,Medical,44,479511,59,1152210
+Male,Widowed,Unemployed,Bachelor,Personal,26,670799,29,1054221
+Female,Single,Salaried,High School,Housing,32,974745,9,753022
+Female,Single,Salaried,High School,Education,32,838965,33,923420
+Female,Married,Unemployed,PhD,Medical,43,431486,20,1857720
+Female,Single,Self-employed,Master,Medical,59,613103,6,1991345
+Male,Single,Unemployed,Diploma,Medical,30,49279,8,542503
+Male,Divorced,Self-employed,PhD,Personal,49,381931,19,268599
+Male,Divorced,Salaried,Diploma,Education,56,951392,43,287919
+Female,Single,Unemployed,Bachelor,Personal,49,158702,55,518668
+Male,Divorced,Salaried,Master,Medical,21,71063,6,453359
+Female,Single,Unemployed,Diploma,Personal,47,783887,43,1583183
+Female,Single,Self-employed,Master,Housing,54,264311,43,1690307
+Female,Widowed,Self-employed,High School,Medical,40,662184,26,1390144
+Female,Married,Salaried,High School,Personal,56,700504,53,1449564
+Male,Married,Unemployed,Bachelor,Education,62,455377,34,878416
+Male,Married,Salaried,Diploma,Personal,32,499934,10,91505
+Female,Single,Self-employed,PhD,Education,60,529089,54,1201054
+Male,Divorced,Self-employed,PhD,Education,46,756434,15,1161275
+Female,Widowed,Unemployed,High School,Medical,53,218432,33,994461
+Male,Single,Self-employed,Diploma,Medical,30,192051,26,1517256
+Female,Single,Self-employed,Diploma,Business,49,107661,55,950444
+Female,Married,Salaried,PhD,Education,24,934483,12,204721
+Male,Divorced,Self-employed,High School,Business,39,953693,8,1060165
+Female,Widowed,Salaried,Diploma,Medical,45,707960,50,871190
+Female,Married,Unemployed,Diploma,Medical,19,462776,52,186668
+Female,Married,Salaried,Diploma,Personal,59,481256,25,328518
+Male,Widowed,Self-employed,Bachelor,Personal,62,133257,24,692974
+Male,Married,Salaried,Master,Personal,23,989062,40,1364495
+Female,Widowed,Unemployed,Master,Education,45,882637,9,1912396
+Female,Widowed,Unemployed,Diploma,Personal,45,279054,10,1484520
+Male,Married,Unemployed,Bachelor,Education,61,985217,6,857461
+Female,Widowed,Salaried,Diploma,Education,61,843289,9,658269
+Female,Divorced,Salaried,Master,Education,37,569252,17,1414359
+Female,Widowed,Salaried,Bachelor,Education,47,428443,32,1212586
+Female,Widowed,Salaried,PhD,Business,28,933482,47,1653969
+Female,Married,Salaried,High School,Business,45,813585,28,573472
+Male,Divorced,Unemployed,Master,Business,42,331909,30,456884
+Female,Single,Salaried,Diploma,Housing,56,764444,26,309021
+Female,Single,Salaried,High School,Business,50,642500,57,197032
+Female,Widowed,Self-employed,PhD,Personal,18,573359,29,700807
+Female,Divorced,Unemployed,Master,Education,44,122990,30,1241005
+Female,Married,Unemployed,Diploma,Housing,30,79519,50,507820
+Male,Married,Self-employed,Master,Personal,58,19503,51,939171
+Female,Single,Salaried,Bachelor,Education,20,201775,37,1412516
+Male,Married,Self-employed,Master,Medical,56,991883,37,327948
+Female,Single,Unemployed,Diploma,Medical,23,629745,10,1750596
+Male,Divorced,Self-employed,PhD,Housing,25,723226,41,1083237
+Female,Married,Unemployed,Bachelor,Housing,44,157977,51,1768562
+Male,Divorced,Unemployed,High School,Education,26,580126,47,209204
+Female,Married,Self-employed,Bachelor,Business,54,921632,54,1892959
+Male,Single,Salaried,Bachelor,Medical,50,461495,47,973953
+Male,Married,Self-employed,Diploma,Medical,59,623777,44,1379785
+Female,Divorced,Self-employed,Bachelor,Business,61,36806,21,937935
+Male,Married,Salaried,Bachelor,Education,41,186072,38,155072
+Female,Widowed,Unemployed,Diploma,Housing,32,425384,54,714490
+Male,Divorced,Salaried,High School,Medical,49,80119,26,139360
+Male,Married,Unemployed,Master,Education,49,835146,14,112287
+Male,Divorced,Unemployed,Diploma,Personal,41,195165,11,1336585
+Female,Divorced,Salaried,Master,Education,58,851851,56,757062
+Male,Single,Self-employed,Bachelor,Personal,29,976649,50,742353
+Male,Single,Self-employed,Diploma,Business,56,639720,40,737235
+Female,Married,Self-employed,Bachelor,Medical,19,480641,44,820644
+Male,Widowed,Unemployed,Bachelor,Personal,20,889381,27,711414
+Male,Married,Unemployed,High School,Personal,54,481027,46,280881
+Male,Divorced,Self-employed,Diploma,Personal,34,929965,59,1205933
+Female,Widowed,Salaried,High School,Personal,19,417507,10,1540309
+Female,Married,Unemployed,Bachelor,Education,19,712164,47,257440
+Female,Divorced,Self-employed,High School,Medical,45,873403,28,603958
+Male,Divorced,Self-employed,Master,Medical,40,889903,22,1934120
+Female,Single,Self-employed,PhD,Medical,54,861378,17,924820
+Male,Single,Unemployed,Master,Education,49,895421,28,1449876
+Male,Married,Salaried,Master,Medical,50,94080,21,1257955
+Male,Divorced,Self-employed,High School,Housing,18,262791,8,818447
+Female,Widowed,Self-employed,High School,Education,36,988836,35,1296735
+Male,Widowed,Salaried,Bachelor,Business,19,87794,27,1932930
+Male,Married,Salaried,Diploma,Housing,61,302985,14,244152
+Female,Married,Unemployed,High School,Housing,43,134447,34,1978356
+Male,Divorced,Unemployed,PhD,Housing,49,130029,52,653623
+Female,Divorced,Salaried,Diploma,Education,23,189830,42,862744
+Male,Divorced,Salaried,High School,Medical,49,517942,28,1072660
+Female,Divorced,Unemployed,PhD,Business,21,348416,18,1165561
+Male,Divorced,Self-employed,High School,Personal,28,571931,37,1753608
+Male,Single,Unemployed,Diploma,Business,34,977912,51,1874577
+Female,Divorced,Salaried,High School,Personal,55,316094,57,1025112
+Male,Divorced,Self-employed,Master,Housing,41,197921,52,533178
+Male,Divorced,Unemployed,Master,Education,22,372644,53,1985971
+Female,Married,Unemployed,Diploma,Business,51,693404,28,1269925
+Female,Married,Unemployed,Bachelor,Housing,23,508685,50,605839
+Female,Married,Salaried,PhD,Personal,39,397732,22,664101
+Female,Divorced,Unemployed,Master,Business,28,550285,45,499813
+Female,Single,Unemployed,Bachelor,Education,33,876183,26,1986033
+Male,Widowed,Self-employed,Master,Business,50,632893,7,1485062
+Female,Widowed,Salaried,High School,Housing,26,951415,42,1799148
+Female,Widowed,Unemployed,Diploma,Business,23,851965,11,1108213
+Male,Married,Unemployed,High School,Medical,33,354710,49,1928266
+Female,Divorced,Salaried,PhD,Housing,46,760230,23,1003197
+Male,Single,Self-employed,Master,Medical,20,679931,35,977328
+Male,Single,Self-employed,PhD,Personal,37,642543,27,1752417
+Male,Married,Self-employed,PhD,Housing,53,794586,59,601238
+Male,Married,Salaried,Diploma,Medical,36,461157,38,466704
+Female,Widowed,Unemployed,High School,Education,43,68005,35,1750734
+Male,Single,Self-employed,Master,Business,20,227322,22,1596336
+Female,Divorced,Salaried,High School,Personal,36,199784,48,50215
+Male,Divorced,Unemployed,Bachelor,Medical,37,577829,37,417747
+Male,Divorced,Self-employed,High School,Medical,49,33387,47,847955
+Female,Widowed,Unemployed,Master,Business,24,890412,56,905121
+Male,Married,Self-employed,PhD,Housing,58,714268,19,1122410
+Male,Single,Salaried,Bachelor,Housing,50,95457,15,1395194
+Female,Divorced,Salaried,Bachelor,Education,57,154129,52,1665930
+Female,Married,Salaried,PhD,Medical,56,598316,56,1067375
+Female,Divorced,Unemployed,Diploma,Personal,35,653534,41,322544
+Female,Married,Unemployed,Bachelor,Housing,57,327875,39,584633
+Female,Widowed,Unemployed,PhD,Medical,18,690218,14,1132472
+Male,Widowed,Salaried,Diploma,Education,28,189761,47,1577222
+Female,Married,Salaried,Bachelor,Housing,45,578926,33,1913907
+Female,Widowed,Unemployed,PhD,Housing,42,494814,16,1597963
+Male,Widowed,Unemployed,Bachelor,Medical,40,187558,19,864661
+Female,Single,Salaried,PhD,Business,48,554855,44,560269
+Male,Divorced,Salaried,High School,Business,47,432955,52,1366303
+Female,Widowed,Salaried,Master,Business,59,592092,59,972401
+Male,Widowed,Salaried,PhD,Medical,52,380965,24,563622
+Female,Widowed,Self-employed,High School,Education,24,13754,59,1170113
+Female,Widowed,Unemployed,PhD,Business,33,561332,20,1863353
+Female,Divorced,Unemployed,Diploma,Business,43,77260,33,447783
+Male,Divorced,Salaried,High School,Education,19,76912,29,1697671
+Male,Single,Unemployed,Bachelor,Medical,18,266695,13,703936
+Female,Widowed,Self-employed,Bachelor,Personal,29,542994,48,949084
+Male,Widowed,Salaried,Diploma,Education,22,805326,14,520455
+Female,Divorced,Unemployed,Diploma,Personal,54,945541,52,718689
+Male,Married,Salaried,Master,Education,49,356130,38,282117
+Female,Divorced,Salaried,Master,Housing,26,878374,38,1871644
+Female,Divorced,Self-employed,High School,Business,58,716972,24,1432512
+Male,Divorced,Salaried,Master,Housing,52,39725,8,1492020
+Female,Single,Unemployed,Diploma,Housing,36,146998,15,1311862
+Female,Divorced,Self-employed,High School,Housing,33,114555,45,611340
+Female,Widowed,Unemployed,Master,Housing,20,271486,52,500985
+Male,Divorced,Salaried,Master,Housing,37,805928,47,96032
+Male,Widowed,Salaried,High School,Personal,41,590735,6,554910
+Male,Married,Self-employed,High School,Business,50,898036,34,1056225
+Male,Single,Self-employed,Bachelor,Education,41,695166,55,1394406
+Male,Divorced,Salaried,Bachelor,Personal,28,884631,39,913413
+Female,Single,Salaried,PhD,Housing,25,575609,56,673090
+Male,Single,Salaried,Diploma,Education,53,787401,18,970313
+Female,Married,Salaried,Bachelor,Personal,55,243103,59,1332913
+Male,Divorced,Salaried,Bachelor,Medical,57,992599,6,1271433
+Male,Divorced,Unemployed,Bachelor,Housing,37,425872,39,479763
+Female,Single,Unemployed,Diploma,Education,52,65147,34,354962
+Female,Married,Salaried,PhD,Medical,42,625684,53,1985430
+Male,Widowed,Self-employed,PhD,Business,52,452882,52,1432647
+Female,Divorced,Self-employed,High School,Housing,42,485584,18,1819617
+Male,Divorced,Salaried,High School,Education,46,310931,53,391609
+Male,Married,Salaried,PhD,Education,35,254839,54,1843798
+Male,Married,Salaried,PhD,Medical,63,466162,58,800887
+Male,Divorced,Unemployed,Master,Personal,35,556015,34,687509
+Female,Married,Self-employed,PhD,Housing,19,773711,44,349477
+Male,Widowed,Salaried,PhD,Personal,52,105081,29,1225033
+Male,Married,Unemployed,Master,Personal,33,394865,31,1377296
+Female,Single,Unemployed,High School,Housing,58,775418,22,1218451
+Male,Single,Salaried,Master,Business,53,602344,12,1924413
+Female,Widowed,Salaried,Diploma,Housing,50,668441,18,930432
+Female,Divorced,Salaried,Bachelor,Business,21,699556,10,516995
+Female,Single,Unemployed,Diploma,Business,50,702095,31,605889
+Female,Single,Salaried,High School,Business,31,770109,54,904378
+Female,Married,Salaried,PhD,Personal,38,90102,8,1412836
+Male,Divorced,Salaried,Diploma,Housing,37,166570,12,1616541
+Male,Widowed,Salaried,PhD,Personal,25,611153,54,1609048
+Female,Single,Unemployed,High School,Business,24,697016,44,678474
+Male,Married,Salaried,Master,Housing,20,77695,58,899326
+Male,Single,Self-employed,High School,Education,34,441116,6,739995
+Female,Divorced,Salaried,Diploma,Medical,50,531608,54,1892473
+Female,Single,Self-employed,Master,Personal,29,127235,22,1679618
+Female,Divorced,Unemployed,High School,Education,39,450917,48,1327623
+Male,Widowed,Unemployed,Diploma,Housing,39,643065,30,142850
+Female,Widowed,Unemployed,PhD,Business,63,29033,8,946197
+Female,Widowed,Salaried,PhD,Personal,47,526409,20,1839055
+Female,Married,Salaried,Master,Medical,55,676165,34,1453411
+Male,Widowed,Unemployed,Bachelor,Personal,55,701211,58,1661735
+Female,Married,Unemployed,High School,Housing,62,561120,48,1292522
+Female,Widowed,Unemployed,Bachelor,Personal,25,204509,37,520949
+Male,Widowed,Self-employed,Bachelor,Medical,44,387869,31,865943
+Male,Widowed,Self-employed,Diploma,Housing,44,155016,21,917392
+Female,Single,Self-employed,Diploma,Personal,51,292017,30,1016325
+Male,Married,Self-employed,Bachelor,Medical,38,574660,59,1950784
+Male,Divorced,Unemployed,Bachelor,Personal,47,99464,33,1347776
+Female,Married,Unemployed,High School,Medical,50,680739,14,775527
+Female,Divorced,Unemployed,PhD,Housing,45,127322,6,1405182
+Female,Widowed,Salaried,PhD,Business,64,702111,34,1553174
+Male,Divorced,Salaried,Master,Education,50,896514,27,533410
+Male,Married,Salaried,Master,Business,22,755182,21,1857317
+Female,Widowed,Salaried,PhD,Medical,36,801542,46,1655438
+Female,Married,Unemployed,High School,Education,21,457557,56,1724936
+Male,Married,Self-employed,Bachelor,Business,52,808519,49,1533702
+Female,Married,Self-employed,Master,Personal,34,426978,56,1303179
+Female,Divorced,Unemployed,PhD,Personal,61,879049,59,1779122
+Male,Married,Self-employed,PhD,Business,45,634771,46,1776749
+Female,Widowed,Unemployed,High School,Medical,47,533886,12,784172
+Male,Widowed,Self-employed,PhD,Personal,46,543884,19,1839461
+Female,Single,Salaried,Diploma,Education,63,244627,34,1963290
+Female,Divorced,Unemployed,Diploma,Business,23,641827,24,159779
+Female,Widowed,Salaried,Bachelor,Medical,52,552601,24,1117133
+Female,Widowed,Salaried,Master,Housing,58,909607,7,1257708
+Male,Single,Salaried,Master,Business,54,731909,46,502082
+Female,Widowed,Unemployed,Diploma,Personal,41,124914,50,384248
+Male,Married,Salaried,Master,Housing,46,557993,20,1854841
+Female,Divorced,Unemployed,Master,Business,63,732724,8,1576369
+Male,Divorced,Unemployed,Bachelor,Personal,48,869877,16,711440
+Female,Single,Unemployed,High School,Medical,52,113892,58,1243502
+Male,Widowed,Salaried,Bachelor,Personal,50,744005,51,773055
+Male,Widowed,Self-employed,High School,Housing,38,274167,35,1780961
+Female,Widowed,Salaried,Diploma,Medical,49,653942,45,1282630
+Male,Divorced,Unemployed,Bachelor,Personal,40,200868,23,615369
+Female,Divorced,Unemployed,Diploma,Education,50,90073,56,971872
+Male,Divorced,Unemployed,High School,Education,20,888629,53,804981
+Female,Divorced,Salaried,High School,Education,35,598717,7,431325
+Male,Married,Salaried,PhD,Housing,42,114195,37,863526
+Female,Single,Salaried,Master,Business,59,726987,13,1013544
+Female,Married,Self-employed,Bachelor,Housing,48,43848,27,378910
+Female,Single,Salaried,PhD,Medical,20,965308,11,1968061
+Male,Divorced,Unemployed,Master,Business,57,942883,17,1253639
+Female,Widowed,Salaried,Master,Business,63,987168,52,1886309
+Male,Married,Unemployed,Bachelor,Education,41,299910,45,733970
+Female,Single,Salaried,High School,Medical,49,78099,41,655751
+Female,Widowed,Self-employed,PhD,Business,64,439276,20,1788614
+Male,Single,Unemployed,Bachelor,Business,39,79122,33,1385186
+Male,Married,Self-employed,Diploma,Business,40,681447,57,523656
+Male,Married,Unemployed,Bachelor,Education,19,583156,54,1008379
+Male,Married,Salaried,Bachelor,Business,44,653407,50,1124657
+Male,Widowed,Unemployed,Master,Education,59,426441,23,1122930
+Male,Widowed,Unemployed,PhD,Business,19,891718,7,667585
+Male,Divorced,Self-employed,Master,Business,43,278787,18,854732
+Male,Single,Self-employed,High School,Personal,34,496275,50,1162960
+Male,Married,Unemployed,Master,Medical,57,308871,59,1980035
+Female,Married,Self-employed,Diploma,Education,50,938509,20,1744548
+Female,Divorced,Unemployed,PhD,Medical,26,119079,25,897324
+Female,Widowed,Salaried,Diploma,Personal,60,862129,34,85525
+Male,Widowed,Unemployed,Bachelor,Medical,56,26029,47,994036
+Male,Divorced,Self-employed,Bachelor,Medical,46,256353,34,56464
+Male,Married,Self-employed,Bachelor,Education,59,417442,8,1639426
+Male,Widowed,Self-employed,PhD,Medical,43,204718,24,1992400
+Male,Single,Salaried,PhD,Personal,52,988107,8,1678378
+Female,Single,Self-employed,Master,Personal,42,431947,59,425572
+Male,Single,Self-employed,PhD,Education,41,381602,19,1211140
+Female,Married,Salaried,Diploma,Housing,30,906816,45,1468767
+Male,Married,Self-employed,Diploma,Business,24,78926,9,1566011
+Male,Single,Salaried,Diploma,Medical,53,671357,57,606922
+Male,Widowed,Self-employed,Bachelor,Business,62,327650,16,1885068
+Female,Divorced,Salaried,Bachelor,Business,37,874661,36,1894277
+Female,Widowed,Salaried,PhD,Business,18,453031,48,244215
+Female,Married,Self-employed,Bachelor,Education,25,52092,37,1645929
+Male,Widowed,Salaried,High School,Medical,63,334683,32,315039
+Male,Married,Self-employed,Bachelor,Business,33,993581,35,1441579
+Male,Widowed,Unemployed,Bachelor,Medical,31,162889,48,1766288
+Female,Single,Unemployed,Diploma,Medical,29,703221,7,1017241
+Female,Widowed,Salaried,PhD,Housing,40,547716,54,154127
+Female,Single,Salaried,Master,Housing,32,185006,14,146426
+Male,Single,Salaried,Diploma,Education,45,780915,33,999520
+Female,Married,Self-employed,Diploma,Medical,51,779727,36,1290952
+Female,Divorced,Self-employed,Master,Medical,19,151330,39,1110538
+Female,Single,Unemployed,PhD,Business,49,67775,20,83302
+Female,Married,Salaried,Diploma,Housing,40,746940,53,1446102
+Male,Single,Self-employed,High School,Business,39,277613,30,54011
+Male,Single,Self-employed,PhD,Business,42,300998,41,69782
+Male,Divorced,Unemployed,High School,Medical,39,671616,13,1297339
+Female,Widowed,Unemployed,Master,Housing,39,789446,14,1743518
+Female,Single,Self-employed,Bachelor,Business,59,86256,42,482941
+Female,Single,Unemployed,Master,Personal,23,961441,53,1632060
+Female,Widowed,Unemployed,PhD,Housing,32,371278,50,1142035
+Male,Widowed,Unemployed,Bachelor,Medical,60,667011,44,661533
+Male,Married,Salaried,PhD,Business,54,191360,37,572829
+Female,Divorced,Self-employed,Master,Personal,50,356874,57,653151
+Female,Single,Self-employed,PhD,Business,25,428267,22,959638
+Male,Single,Salaried,PhD,Housing,61,299530,40,1873327
+Male,Single,Self-employed,High School,Housing,61,252634,42,1461730
+Male,Married,Salaried,Master,Education,22,943688,24,1131345
+Female,Widowed,Unemployed,Master,Business,56,43787,49,419673
+Male,Single,Salaried,Bachelor,Education,21,555909,34,1879297
+Female,Married,Self-employed,PhD,Education,23,612272,12,1123276
+Female,Single,Self-employed,Bachelor,Personal,62,463008,33,1869728
+Male,Widowed,Unemployed,Master,Personal,49,448469,14,1834292
+Male,Widowed,Unemployed,Diploma,Housing,47,830483,33,1043931
+Male,Divorced,Salaried,Master,Housing,64,321955,11,281237
+Female,Divorced,Self-employed,Master,Medical,52,40447,34,1890277
+Male,Married,Unemployed,Diploma,Education,57,138046,22,958063
+Male,Widowed,Self-employed,High School,Medical,33,749290,21,356024
+Female,Single,Self-employed,Diploma,Personal,30,526494,28,164003
+Female,Married,Salaried,Bachelor,Business,59,695614,36,1237968
+Male,Widowed,Self-employed,Bachelor,Business,47,880477,8,99589
+Male,Married,Unemployed,Bachelor,Personal,36,651147,26,300606
+Female,Married,Salaried,Master,Housing,34,198490,31,781636
+Male,Single,Salaried,Bachelor,Business,36,417688,41,610185
+Male,Single,Self-employed,Diploma,Housing,45,514409,47,239637
+Male,Widowed,Self-employed,PhD,Business,43,537759,42,736290
+Female,Divorced,Self-employed,High School,Housing,54,248404,58,1811169
+Female,Divorced,Unemployed,Master,Personal,43,654600,27,1312469
+Female,Married,Unemployed,PhD,Personal,40,526595,47,1899388
+Female,Divorced,Self-employed,Diploma,Education,26,761164,17,1830832
+Female,Married,Salaried,Diploma,Housing,29,673689,47,1169510
+Female,Divorced,Unemployed,PhD,Business,18,175937,18,630118
+Female,Single,Salaried,Diploma,Medical,18,56850,16,317673
+Male,Single,Unemployed,Master,Personal,64,326364,59,1875228
+Male,Married,Salaried,Diploma,Housing,51,253306,21,406742
+Female,Divorced,Salaried,PhD,Housing,49,103808,13,807582
+Female,Single,Self-employed,Diploma,Business,42,511597,45,132987
+Male,Single,Unemployed,PhD,Business,57,671757,45,1672042
+Female,Married,Unemployed,Diploma,Housing,62,238981,50,1236585
+Male,Single,Salaried,High School,Medical,18,532220,7,1482672
+Male,Married,Salaried,PhD,Personal,33,700885,35,614174
+Female,Married,Salaried,PhD,Business,56,63072,35,1672563
+Male,Married,Unemployed,Diploma,Personal,22,755466,17,1699260
+Female,Married,Salaried,Master,Medical,39,618108,15,1713542
+Female,Widowed,Self-employed,Bachelor,Business,46,487746,49,599567
+Female,Single,Unemployed,Master,Medical,20,33284,16,481322
+Female,Widowed,Salaried,Diploma,Housing,29,988834,20,160776
+Female,Single,Salaried,Bachelor,Housing,43,93369,21,1724308
+Female,Single,Unemployed,High School,Personal,33,821554,22,418444
+Female,Widowed,Self-employed,PhD,Medical,54,926781,31,1212369
+Male,Widowed,Salaried,High School,Business,39,866985,7,1476998
+Female,Widowed,Unemployed,Bachelor,Personal,46,747266,55,260809
+Male,Married,Self-employed,High School,Housing,31,891220,17,1270192
+Female,Single,Unemployed,Bachelor,Education,45,597100,56,1463967
+Female,Widowed,Unemployed,Master,Housing,22,280143,31,1340838
+Female,Married,Self-employed,Diploma,Medical,64,294580,28,583285
+Female,Married,Self-employed,Diploma,Medical,47,839395,23,1204678
+Female,Married,Salaried,Master,Education,63,667456,37,922143
+Female,Widowed,Salaried,PhD,Business,22,533156,54,1476765
+Female,Single,Self-employed,Diploma,Business,29,779097,43,615148
+Male,Married,Unemployed,Master,Personal,33,428495,52,1363945
+Female,Widowed,Unemployed,Bachelor,Education,43,262164,8,1732978
+Female,Divorced,Unemployed,Diploma,Business,43,905331,43,1026974
+Male,Married,Salaried,High School,Education,38,779605,8,687506
+Male,Married,Self-employed,Diploma,Business,56,298345,35,572070
+Male,Single,Unemployed,PhD,Medical,53,160787,6,1985772
+Female,Divorced,Salaried,High School,Education,50,170381,35,157041
+Male,Divorced,Unemployed,High School,Personal,47,680438,50,424368
+Female,Married,Unemployed,Bachelor,Personal,54,459830,37,375800
+Male,Single,Salaried,Master,Education,40,539393,33,1543672
+Female,Divorced,Salaried,Bachelor,Business,27,914098,26,766438
+Male,Married,Unemployed,PhD,Education,22,366992,51,531862
+Male,Single,Self-employed,Diploma,Personal,53,799271,18,1174866
+Male,Single,Unemployed,Master,Housing,51,78920,32,1155209
+Male,Widowed,Salaried,Master,Medical,48,840051,41,1911663
+Male,Widowed,Unemployed,Diploma,Housing,27,577109,12,1219694
+Female,Widowed,Unemployed,Master,Education,36,660024,27,748961
+Male,Divorced,Unemployed,Bachelor,Medical,49,940997,15,1101690
+Male,Widowed,Unemployed,PhD,Personal,18,551357,44,862934
+Female,Divorced,Salaried,Bachelor,Housing,22,515659,58,99768
+Male,Married,Salaried,Diploma,Business,62,17531,20,1408848
+Male,Widowed,Salaried,High School,Housing,21,440267,20,1511820
+Male,Widowed,Self-employed,Diploma,Personal,33,673096,9,1023069
+Male,Married,Self-employed,Diploma,Education,41,673070,37,133123
+Female,Married,Self-employed,Master,Housing,33,77155,28,1731119
+Male,Divorced,Self-employed,Diploma,Personal,19,941479,11,216405
+Female,Divorced,Unemployed,High School,Business,45,596712,29,53174
+Female,Widowed,Self-employed,Master,Housing,49,317747,25,167769
+Male,Single,Salaried,Bachelor,Personal,44,950756,42,347542
+Male,Single,Salaried,Bachelor,Personal,37,484013,25,479145
+Female,Divorced,Self-employed,Master,Housing,41,142503,17,1233969
+Female,Married,Salaried,PhD,Business,29,739963,38,1484269
+Male,Married,Salaried,Master,Business,52,702841,33,1849907
+Male,Single,Self-employed,PhD,Business,50,889005,13,816868
+Male,Divorced,Salaried,Diploma,Personal,50,674917,6,1285069
+Male,Married,Self-employed,Bachelor,Business,60,375446,42,646923
+Female,Divorced,Unemployed,Master,Business,54,665522,27,1908768
+Male,Married,Unemployed,Bachelor,Business,29,962246,11,978864
+Male,Divorced,Unemployed,PhD,Education,20,29675,26,1764249
+Male,Married,Salaried,High School,Medical,18,83997,37,817166
+Male,Widowed,Unemployed,PhD,Medical,50,158087,40,267070
+Female,Married,Unemployed,Diploma,Education,57,977561,20,449017
+Female,Divorced,Self-employed,Master,Personal,27,960095,10,1899138
+Female,Single,Unemployed,Diploma,Education,60,496799,51,981775
+Male,Married,Salaried,Bachelor,Housing,61,529349,55,1507867
+Male,Divorced,Unemployed,Master,Housing,46,765678,53,1594247
+Female,Divorced,Unemployed,High School,Medical,30,150905,11,419359
+Male,Divorced,Salaried,High School,Personal,29,280040,30,1248632
+Female,Widowed,Self-employed,Diploma,Medical,48,436188,51,924527
+Female,Divorced,Self-employed,Diploma,Business,63,321877,45,897374
+Female,Single,Unemployed,PhD,Housing,19,785723,34,193933
+Female,Widowed,Unemployed,Diploma,Housing,52,576088,12,1197546
+Male,Widowed,Self-employed,Diploma,Education,40,106044,45,1180779
+Female,Widowed,Salaried,PhD,Medical,34,277491,18,1290895
+Male,Single,Unemployed,Bachelor,Housing,43,724423,43,1298749
+Male,Married,Salaried,High School,Education,25,499066,23,551946
+Male,Divorced,Unemployed,Diploma,Housing,46,668003,7,726337
+Female,Single,Salaried,High School,Education,43,312929,13,1542409
+Male,Single,Unemployed,High School,Medical,27,815113,16,1316302
+Male,Widowed,Unemployed,Bachelor,Medical,43,977530,38,924609
+Female,Divorced,Unemployed,PhD,Education,51,376008,59,1695766
+Female,Widowed,Salaried,Diploma,Housing,58,943396,43,142172
+Male,Widowed,Salaried,Diploma,Personal,24,843731,53,720990
+Male,Divorced,Salaried,PhD,Business,21,27073,32,594344
+Male,Married,Self-employed,Diploma,Housing,62,898736,25,1237030
+Female,Widowed,Self-employed,High School,Education,28,564970,17,1154315
+Male,Divorced,Unemployed,PhD,Education,46,763158,48,1966693
+Male,Divorced,Salaried,Bachelor,Housing,53,762254,36,98639
+Male,Married,Unemployed,Bachelor,Personal,42,920734,32,503054
+Male,Single,Unemployed,Bachelor,Personal,38,417505,37,489257
+Female,Married,Salaried,PhD,Education,53,125359,15,837424
+Female,Single,Salaried,Master,Education,27,935431,8,646682
+Female,Married,Salaried,Master,Education,54,975834,50,379801
+Male,Widowed,Salaried,High School,Medical,26,76707,32,863592
+Female,Married,Salaried,Bachelor,Housing,41,261351,40,1930164
+Male,Married,Salaried,PhD,Personal,52,480670,36,232447
+Female,Divorced,Salaried,Diploma,Personal,52,248511,20,398586
+Male,Married,Unemployed,Master,Medical,53,245718,21,724932
+Male,Widowed,Salaried,Master,Housing,35,599716,18,430069
+Male,Widowed,Unemployed,Bachelor,Business,56,60601,54,54136
+Male,Widowed,Unemployed,PhD,Housing,49,405755,40,111868
+Male,Divorced,Salaried,High School,Education,41,505479,57,394407
+Male,Married,Unemployed,High School,Business,40,645775,16,868599
+Female,Widowed,Unemployed,High School,Medical,49,688029,26,160957
+Male,Widowed,Self-employed,Bachelor,Business,54,474184,56,589767
+Male,Married,Self-employed,PhD,Personal,29,423860,59,169392
+Female,Single,Salaried,Diploma,Personal,30,421961,16,1785312
+Male,Single,Unemployed,High School,Personal,40,261924,35,710183
+Female,Divorced,Self-employed,Master,Personal,42,793441,53,830516
+Female,Single,Self-employed,Master,Medical,52,824660,58,1300104
+Female,Married,Salaried,High School,Housing,58,533394,40,856017
+Female,Widowed,Salaried,Diploma,Personal,47,259430,27,1333423
+Female,Divorced,Salaried,High School,Medical,34,437737,43,1911627
+Female,Single,Self-employed,Master,Housing,37,132788,36,911501
+Female,Single,Salaried,Master,Personal,42,631527,19,1400615
+Male,Single,Self-employed,PhD,Education,39,561216,29,315864
+Male,Married,Self-employed,Master,Education,30,290466,55,331411
+Male,Married,Salaried,High School,Medical,36,460930,54,1245344
+Female,Single,Self-employed,PhD,Education,53,360040,37,735328
+Male,Widowed,Salaried,Bachelor,Personal,29,72292,41,365508
+Female,Divorced,Unemployed,PhD,Personal,58,563343,37,466561
+Female,Single,Unemployed,PhD,Business,36,315035,20,101567
+Female,Divorced,Salaried,PhD,Housing,29,616200,48,141229
+Male,Married,Salaried,Bachelor,Personal,26,671948,40,1029111
+Male,Divorced,Salaried,Bachelor,Personal,24,362680,8,1511177
+Female,Divorced,Self-employed,High School,Housing,45,278448,21,1575450
+Male,Married,Self-employed,Bachelor,Medical,31,541633,10,1297892
+Female,Divorced,Self-employed,High School,Personal,48,170372,26,1819361
+Female,Single,Self-employed,Bachelor,Personal,36,951763,15,914950
+Female,Single,Salaried,Bachelor,Medical,64,101006,24,657132
+Male,Single,Self-employed,PhD,Education,33,942856,30,1262567
+Female,Single,Unemployed,Master,Business,22,139350,9,1713561
+Female,Widowed,Salaried,High School,Medical,52,698725,34,1680060
+Female,Widowed,Salaried,PhD,Education,29,815878,24,689888
+Male,Widowed,Self-employed,Diploma,Education,42,798768,48,674913
+Female,Divorced,Self-employed,Master,Business,38,858464,7,1571193
+Female,Widowed,Self-employed,Bachelor,Education,53,216487,15,967999
+Female,Widowed,Unemployed,High School,Housing,40,107852,48,881187
+Female,Single,Salaried,PhD,Medical,33,502092,30,1131900
+Male,Single,Self-employed,Diploma,Business,56,148593,25,915361
+Female,Single,Salaried,Bachelor,Housing,62,737067,53,444768
+Female,Married,Self-employed,Master,Education,59,688841,24,101272
+Male,Divorced,Self-employed,Diploma,Business,56,290618,28,479069
+Female,Divorced,Unemployed,High School,Housing,31,187832,29,299264
+Male,Married,Salaried,Bachelor,Education,48,852150,16,738284
+Female,Single,Unemployed,Bachelor,Medical,22,316773,51,1959470
+Female,Married,Self-employed,Diploma,Personal,52,55232,39,1850323
+Female,Divorced,Unemployed,Bachelor,Personal,40,358688,33,1777825
+Male,Divorced,Salaried,High School,Education,46,470385,10,286538
+Male,Single,Self-employed,PhD,Medical,60,793301,10,628963
+Male,Widowed,Self-employed,Diploma,Housing,28,322813,56,565447
+Male,Single,Self-employed,High School,Education,35,219093,26,1172167
+Male,Divorced,Self-employed,PhD,Education,64,341328,17,1561982
+Female,Divorced,Salaried,PhD,Personal,29,713305,55,203706
+Female,Single,Unemployed,Master,Business,26,23140,9,1393083
+Female,Widowed,Unemployed,Diploma,Business,27,398612,59,1293400
+Female,Divorced,Unemployed,Master,Personal,61,617745,54,389148
+Female,Divorced,Salaried,High School,Education,34,548645,47,1023902
+Male,Widowed,Self-employed,Master,Personal,55,533375,25,803818
+Female,Single,Salaried,Bachelor,Education,24,121672,43,877150
+Female,Married,Self-employed,PhD,Housing,63,340817,30,1212203
+Female,Widowed,Unemployed,PhD,Personal,30,655961,19,1836852
+Male,Divorced,Unemployed,Diploma,Personal,57,599921,16,339014
+Female,Single,Self-employed,Master,Education,59,742303,37,1135970
+Female,Widowed,Self-employed,High School,Education,26,630399,16,888489
+Male,Divorced,Salaried,Bachelor,Business,44,874690,23,1178371
+Female,Widowed,Self-employed,Master,Education,19,416140,32,392553
+Male,Widowed,Salaried,Master,Housing,22,79286,59,1898024
+Male,Divorced,Salaried,Master,Medical,46,103269,23,92137
+Female,Single,Unemployed,Master,Business,54,268635,28,1491945
+Male,Married,Unemployed,PhD,Business,55,84071,16,188925
+Female,Single,Unemployed,Bachelor,Housing,36,460542,26,586667
+Male,Widowed,Unemployed,PhD,Education,25,231095,49,983296
+Male,Single,Self-employed,PhD,Medical,62,523317,10,171169
+Male,Single,Salaried,PhD,Medical,18,40651,28,1268015
+Female,Single,Unemployed,High School,Housing,39,80202,46,1247748
+Male,Widowed,Unemployed,Master,Education,34,58777,30,1748946
+Female,Single,Salaried,Diploma,Education,24,158066,46,425233
+Male,Married,Self-employed,High School,Business,42,863695,59,1030960
+Female,Widowed,Self-employed,Diploma,Medical,62,200706,15,1633913
+Female,Married,Salaried,Diploma,Medical,21,634446,27,1492578
+Male,Single,Unemployed,Diploma,Business,53,807232,24,513120
+Male,Single,Salaried,Diploma,Education,23,834255,6,1784635
+Male,Single,Self-employed,Bachelor,Education,48,773935,12,884123
+Female,Married,Self-employed,PhD,Medical,36,336022,9,1266688
+Female,Divorced,Self-employed,Master,Housing,61,290852,6,823815
+Female,Married,Unemployed,Bachelor,Education,56,678179,20,274062
+Female,Single,Salaried,Diploma,Education,44,740265,45,107986
+Male,Single,Salaried,Bachelor,Housing,27,598158,17,481978
+Male,Married,Unemployed,Diploma,Education,43,543571,27,1777536
+Female,Single,Salaried,Diploma,Education,36,695933,27,1455494
+Male,Divorced,Unemployed,Diploma,Personal,56,875139,55,1844713
+Female,Married,Self-employed,High School,Education,20,434149,52,1839639
+Female,Single,Unemployed,PhD,Housing,62,540062,22,1203891
+Female,Widowed,Self-employed,PhD,Medical,30,213127,34,369348
+Female,Widowed,Self-employed,Bachelor,Personal,45,152055,51,1380805
+Male,Married,Salaried,Master,Medical,37,630756,19,752214
+Male,Divorced,Self-employed,High School,Personal,45,892766,55,1566589
+Male,Single,Unemployed,Master,Education,25,814565,25,1838205
+Female,Widowed,Unemployed,Master,Housing,58,942443,55,745139
+Female,Widowed,Unemployed,PhD,Business,56,535069,53,1810143
+Female,Widowed,Unemployed,Diploma,Business,18,124586,38,275687
+Male,Widowed,Self-employed,Master,Personal,20,459916,48,1394700
+Male,Single,Self-employed,Diploma,Medical,30,299768,20,892549
+Male,Divorced,Salaried,High School,Medical,45,541111,17,195213
+Female,Single,Salaried,High School,Housing,42,552777,45,714704
+Male,Single,Self-employed,High School,Business,50,181033,59,65896
+Male,Single,Salaried,Master,Medical,55,522880,25,139353
+Male,Single,Unemployed,Diploma,Business,23,301262,35,79813
+Male,Married,Unemployed,Master,Personal,61,110417,43,1838367
+Male,Widowed,Salaried,High School,Education,62,91816,8,1164255
+Male,Widowed,Salaried,Master,Education,49,687623,33,716041
+Female,Married,Salaried,High School,Business,62,285709,31,1826839
+Male,Widowed,Salaried,Master,Housing,64,685714,35,1888236
+Female,Single,Self-employed,Diploma,Personal,38,184023,18,1496374
+Male,Divorced,Self-employed,Master,Personal,33,887611,18,259755
+Female,Widowed,Salaried,Bachelor,Medical,38,557936,7,323541
+Male,Single,Self-employed,Diploma,Education,28,453945,42,1397731
+Male,Divorced,Self-employed,Bachelor,Business,54,51971,54,1702047
+Female,Widowed,Salaried,Diploma,Personal,53,28658,43,405398
+Female,Divorced,Unemployed,Master,Business,52,31253,7,1536056
+Female,Married,Unemployed,High School,Education,36,467382,41,1665181
+Male,Married,Self-employed,PhD,Medical,37,189635,59,1277562
+Male,Divorced,Salaried,Bachelor,Education,35,167462,31,265705
+Male,Married,Self-employed,Master,Housing,64,360808,16,1987497
+Male,Married,Unemployed,PhD,Education,58,716938,13,1091741
+Male,Married,Salaried,Bachelor,Medical,31,220097,49,1799190
+Male,Married,Self-employed,Diploma,Business,32,638138,45,1400816
+Male,Divorced,Salaried,Diploma,Housing,48,960162,48,365929
+Male,Single,Unemployed,High School,Business,18,672212,27,102344
+Male,Married,Unemployed,PhD,Business,20,530498,25,820348
+Male,Widowed,Salaried,High School,Business,33,236058,13,525859
+Female,Widowed,Unemployed,High School,Education,40,667911,34,956814
+Male,Single,Salaried,Master,Medical,28,868379,45,773906
+Female,Widowed,Salaried,PhD,Housing,29,595289,31,508819
+Female,Divorced,Unemployed,Diploma,Education,27,190231,35,1258060
+Male,Married,Self-employed,Diploma,Business,49,132775,22,1209065
+Female,Married,Unemployed,PhD,Business,33,979211,25,494874
+Male,Divorced,Unemployed,Master,Housing,25,567531,57,1591633
+Female,Divorced,Salaried,PhD,Business,55,687160,21,1541341
+Female,Single,Unemployed,Diploma,Housing,29,872371,51,1881531
+Male,Divorced,Unemployed,Diploma,Housing,41,329972,48,61549
+Female,Divorced,Salaried,High School,Business,45,271716,12,1563008
+Male,Widowed,Unemployed,Bachelor,Business,25,410455,21,75739
+Female,Divorced,Self-employed,Bachelor,Business,45,278854,50,857641
+Male,Married,Self-employed,Master,Education,53,424600,52,681339
+Male,Married,Self-employed,Bachelor,Business,43,948542,53,1113692
+Male,Widowed,Salaried,High School,Housing,25,181918,32,594333
+Female,Single,Self-employed,Master,Medical,45,229055,58,993831
+Female,Married,Salaried,PhD,Medical,45,995325,28,85709
+Female,Married,Self-employed,PhD,Medical,54,310135,29,1928625
+Female,Married,Self-employed,Master,Housing,58,744417,14,1027643
+Male,Widowed,Self-employed,Bachelor,Education,53,410187,40,1780841
+Male,Single,Unemployed,Bachelor,Business,44,432355,56,1031652
+Male,Single,Unemployed,PhD,Business,34,881877,25,1826539
+Female,Widowed,Self-employed,Bachelor,Housing,26,218139,42,279167
+Female,Single,Unemployed,High School,Medical,50,90257,47,355063
+Female,Widowed,Self-employed,PhD,Medical,37,487958,22,919953
+Female,Divorced,Salaried,Master,Housing,30,834143,52,536121
+Male,Divorced,Salaried,Diploma,Housing,45,16530,36,1050904
+Female,Single,Self-employed,Bachelor,Education,46,283260,13,269222
+Female,Widowed,Salaried,Diploma,Medical,30,600082,20,763806
+Female,Married,Salaried,Diploma,Business,63,927786,36,757788
+Female,Divorced,Self-employed,Diploma,Housing,52,220545,58,1015398
+Female,Married,Unemployed,Bachelor,Medical,23,667258,35,1048653
+Female,Widowed,Salaried,PhD,Education,35,538423,51,842879
+Male,Divorced,Salaried,PhD,Personal,22,934133,25,1628363
+Male,Divorced,Unemployed,Bachelor,Medical,64,381616,44,1661905
+Male,Widowed,Self-employed,High School,Personal,42,921579,58,1392035
+Female,Single,Salaried,High School,Housing,19,488336,17,182371
+Female,Divorced,Self-employed,Bachelor,Housing,27,785158,54,432650
+Female,Married,Salaried,High School,Housing,47,623375,22,1072509
+Female,Married,Salaried,Bachelor,Medical,62,730391,47,710354
+Female,Widowed,Unemployed,PhD,Personal,22,829812,35,800774
+Male,Married,Self-employed,Master,Personal,50,926383,34,1310811
+Female,Divorced,Unemployed,Bachelor,Housing,18,289215,24,832119
+Male,Single,Unemployed,Bachelor,Medical,35,30074,51,974993
+Male,Divorced,Salaried,PhD,Personal,49,756084,16,403791
+Male,Divorced,Self-employed,High School,Medical,64,602131,39,1393075
+Female,Widowed,Self-employed,PhD,Business,28,49901,55,1434525
+Male,Married,Unemployed,PhD,Medical,38,283349,12,1429087
+Female,Widowed,Salaried,Diploma,Medical,43,983165,49,1470626
+Female,Divorced,Unemployed,High School,Education,42,921093,39,1478129
+Female,Divorced,Unemployed,Master,Housing,39,802338,25,913787
+Male,Widowed,Self-employed,Master,Personal,44,405807,55,166220
+Female,Widowed,Salaried,PhD,Personal,30,922008,43,271421
+Female,Married,Unemployed,Master,Business,50,597275,29,399317
+Male,Divorced,Self-employed,PhD,Business,51,990874,15,838428
+Female,Single,Unemployed,Diploma,Business,58,352829,37,1873935
+Female,Single,Self-employed,Master,Housing,52,382598,57,880819
+Male,Widowed,Salaried,Master,Housing,18,377631,20,1082469
+Male,Single,Salaried,High School,Education,38,588688,42,1101665
+Male,Married,Salaried,High School,Personal,23,166222,25,935259
+Female,Widowed,Unemployed,Master,Medical,45,41852,8,1381379
+Female,Widowed,Unemployed,Diploma,Education,34,970374,42,1405898
+Female,Widowed,Salaried,High School,Education,22,523012,45,1611845
+Male,Widowed,Self-employed,High School,Housing,48,849188,13,670253
+Male,Widowed,Salaried,Bachelor,Medical,22,387501,45,655556
+Female,Divorced,Self-employed,Master,Medical,55,653340,49,397186
+Female,Divorced,Unemployed,PhD,Housing,20,66481,28,1467191
+Male,Divorced,Salaried,Master,Housing,40,797715,45,1300374
+Male,Married,Salaried,PhD,Education,54,43691,16,1430831
+Female,Single,Salaried,High School,Personal,54,404341,51,287103
+Male,Single,Salaried,Diploma,Medical,27,208137,13,1867618
+Male,Married,Salaried,High School,Housing,27,560458,34,739925
+Male,Divorced,Unemployed,Master,Business,36,542726,35,1985443
+Male,Single,Unemployed,Diploma,Housing,34,816527,15,139242
+Male,Divorced,Unemployed,Diploma,Personal,38,681514,44,1473924
+Female,Divorced,Unemployed,Diploma,Housing,31,411220,33,1097146
+Male,Divorced,Self-employed,High School,Housing,26,806184,54,1252532
+Male,Married,Salaried,Diploma,Education,63,65426,41,1902207
+Female,Divorced,Salaried,PhD,Housing,18,249968,18,634326
+Male,Widowed,Self-employed,High School,Housing,62,298963,37,1680650
+Male,Married,Unemployed,Master,Housing,30,505384,41,946068
+Male,Married,Salaried,Bachelor,Personal,21,888483,42,810330
+Female,Widowed,Self-employed,Diploma,Business,18,531121,31,885726
+Female,Divorced,Salaried,High School,Housing,57,165289,27,783375
+Male,Divorced,Unemployed,Bachelor,Personal,49,271501,9,215250
+Male,Divorced,Self-employed,Diploma,Personal,51,529165,36,572820
+Male,Married,Salaried,High School,Housing,45,229780,23,312678
+Female,Widowed,Self-employed,Diploma,Personal,48,305138,43,1976836
+Female,Widowed,Salaried,PhD,Housing,25,680396,29,872564
+Female,Single,Salaried,Master,Personal,56,742635,28,348254
+Male,Divorced,Unemployed,Diploma,Medical,43,107756,27,1812690
+Male,Single,Self-employed,Diploma,Medical,51,452632,7,900012
+Male,Single,Self-employed,Bachelor,Medical,20,937091,36,1514261
+Female,Widowed,Unemployed,PhD,Education,29,105665,16,1424736
+Male,Divorced,Self-employed,Diploma,Personal,18,666005,33,96233
+Female,Widowed,Self-employed,Master,Personal,61,172002,51,1296356
+Male,Married,Self-employed,High School,Housing,22,271691,37,501448
+Female,Married,Self-employed,Master,Personal,47,616123,10,798810
+Male,Married,Self-employed,High School,Personal,47,132232,43,1053941
+Male,Single,Self-employed,High School,Housing,34,957594,15,156311
+Female,Widowed,Unemployed,Bachelor,Housing,64,752849,45,1657273
+Female,Married,Self-employed,High School,Personal,40,455358,51,1869095
+Female,Divorced,Unemployed,Diploma,Housing,32,253051,29,1500530
+Female,Widowed,Unemployed,Diploma,Education,54,167547,40,546246
+Female,Married,Salaried,Diploma,Housing,38,422104,49,1909062
+Female,Divorced,Unemployed,Diploma,Personal,31,578020,53,79709
+Male,Single,Salaried,High School,Education,19,746983,28,1732185
+Female,Divorced,Unemployed,Diploma,Business,28,318449,22,1098939
+Female,Divorced,Self-employed,High School,Housing,56,711397,6,1895366
+Female,Widowed,Unemployed,Diploma,Business,55,543634,36,544829
+Female,Single,Unemployed,Diploma,Medical,51,797019,36,446456
+Female,Widowed,Unemployed,PhD,Education,55,22763,47,1563993
+Male,Widowed,Self-employed,Master,Housing,51,200237,47,95689
+Male,Married,Unemployed,PhD,Medical,35,772841,58,1362656
+Male,Divorced,Self-employed,Master,Medical,47,866047,39,948704
+Male,Married,Self-employed,Diploma,Business,32,439332,14,1713938
+Male,Widowed,Salaried,PhD,Business,44,655275,27,225037
+Female,Single,Self-employed,Bachelor,Housing,51,226823,18,258606
+Female,Widowed,Salaried,Diploma,Education,55,101353,30,1099458
+Male,Single,Self-employed,Bachelor,Personal,50,231373,53,1512016
+Female,Married,Self-employed,PhD,Medical,41,367792,23,1990235
+Male,Married,Salaried,Bachelor,Medical,32,559844,56,829110
+Female,Divorced,Unemployed,Bachelor,Personal,47,855474,17,1224441
+Male,Single,Salaried,PhD,Business,59,552387,45,1079516
+Male,Widowed,Unemployed,Master,Business,34,381233,22,1746609
+Female,Widowed,Unemployed,Diploma,Personal,22,186168,20,1522617
+Male,Widowed,Unemployed,High School,Housing,46,737346,47,1562532
+Female,Widowed,Salaried,Bachelor,Education,21,678590,20,78885
+Female,Divorced,Salaried,High School,Medical,27,432225,20,1793992
+Male,Single,Self-employed,Diploma,Housing,34,212041,44,446419
+Male,Single,Self-employed,High School,Personal,27,43866,18,765601
+Male,Married,Self-employed,Master,Personal,34,115400,22,445460
+Female,Divorced,Self-employed,PhD,Business,37,880678,37,410466
+Female,Married,Unemployed,High School,Business,41,349119,14,1082833
+Male,Single,Salaried,PhD,Housing,22,445071,45,1429339
+Male,Single,Unemployed,PhD,Business,51,353701,25,71584
+Male,Married,Salaried,Diploma,Housing,23,147488,31,1893529
+Male,Divorced,Unemployed,Bachelor,Education,19,606804,32,1803953
+Male,Single,Unemployed,High School,Business,30,196987,26,869973
+Female,Married,Salaried,Master,Education,60,421274,23,603351
+Female,Married,Unemployed,Master,Education,60,443934,18,1168844
+Male,Divorced,Self-employed,Master,Business,28,304746,21,830594
+Female,Widowed,Self-employed,High School,Education,64,477874,14,1749082
+Male,Widowed,Salaried,High School,Personal,40,481328,17,1478926
+Male,Single,Salaried,Master,Personal,33,199139,49,1556744
+Male,Divorced,Salaried,Diploma,Medical,48,168588,43,1846990
+Female,Divorced,Unemployed,Master,Education,28,663583,24,1269211
+Female,Married,Unemployed,PhD,Medical,33,622257,12,220824
+Male,Married,Self-employed,PhD,Personal,25,666449,40,800593
+Female,Single,Unemployed,Diploma,Education,21,964850,53,1494359
+Male,Single,Self-employed,Diploma,Medical,57,215735,23,1507913
+Male,Married,Self-employed,Bachelor,Medical,21,675847,21,650699
+Male,Single,Salaried,PhD,Medical,42,272299,44,1208452
+Male,Widowed,Unemployed,Diploma,Personal,20,133950,9,1296729
+Male,Single,Unemployed,Master,Personal,49,339638,30,734500
+Female,Divorced,Self-employed,Bachelor,Housing,20,610517,37,714687
+Male,Single,Self-employed,PhD,Education,44,114648,45,1038167
+Female,Single,Self-employed,Bachelor,Education,46,48547,18,73331
+Male,Widowed,Salaried,Master,Housing,49,563083,50,73004
+Female,Married,Self-employed,High School,Personal,36,196368,22,1337017
+Male,Married,Self-employed,Bachelor,Business,38,555735,54,955675
+Male,Widowed,Self-employed,High School,Education,22,701958,42,1502284
+Female,Single,Salaried,Diploma,Education,35,969318,11,498013
+Male,Divorced,Salaried,Master,Personal,45,756111,24,239167
+Male,Widowed,Unemployed,Bachelor,Medical,59,266190,18,981253
+Male,Widowed,Unemployed,Diploma,Housing,39,216402,31,1948225
+Female,Divorced,Self-employed,PhD,Housing,38,262419,19,1711908
+Male,Single,Unemployed,High School,Medical,23,764105,36,1894053
+Female,Married,Self-employed,Diploma,Housing,18,884392,59,332260
+Male,Married,Self-employed,PhD,Housing,22,859710,9,592955
+Female,Divorced,Unemployed,High School,Housing,58,589365,44,1435777
+Female,Widowed,Self-employed,High School,Education,29,122782,13,1697069
+Female,Married,Salaried,PhD,Personal,43,637220,30,1125878
+Male,Married,Self-employed,Master,Medical,63,999410,18,1503075
+Female,Divorced,Salaried,Diploma,Business,51,937032,37,1260583
+Male,Married,Unemployed,Diploma,Housing,31,453316,43,646822
+Female,Single,Unemployed,Master,Education,43,382013,43,1848278
+Female,Married,Unemployed,PhD,Personal,62,935683,33,1261272
+Female,Widowed,Self-employed,Bachelor,Medical,44,320925,58,1112016
+Female,Divorced,Salaried,High School,Personal,26,196339,35,423145
+Female,Married,Unemployed,High School,Business,43,485595,8,1407221
+Male,Widowed,Unemployed,Diploma,Education,64,427168,33,444485
+Male,Widowed,Self-employed,Bachelor,Housing,39,850230,8,844300
+Female,Married,Self-employed,High School,Housing,64,108696,50,735611
+Female,Widowed,Salaried,PhD,Business,47,513650,59,390053
+Male,Single,Salaried,Master,Personal,60,60939,39,1707387
+Female,Single,Salaried,Diploma,Education,34,825948,21,744089
+Female,Divorced,Unemployed,Master,Housing,43,721886,27,590022
+Female,Widowed,Salaried,Bachelor,Business,53,151521,37,1796365
+Female,Divorced,Salaried,Diploma,Education,18,584578,43,1270985
+Female,Widowed,Unemployed,PhD,Business,25,923120,13,1532117
+Female,Divorced,Unemployed,Diploma,Business,52,883093,13,395744
+Male,Divorced,Self-employed,Master,Personal,32,345098,11,1893441
+Female,Widowed,Unemployed,Bachelor,Medical,64,819178,19,557173
+Male,Married,Self-employed,Bachelor,Medical,39,602278,37,714471
+Male,Married,Unemployed,Master,Personal,31,593098,40,1726850
+Male,Married,Unemployed,High School,Housing,43,652650,15,1948761
+Male,Widowed,Unemployed,Diploma,Personal,45,486513,8,1736647
+Female,Single,Unemployed,Bachelor,Business,40,156295,17,1310231
+Female,Widowed,Salaried,Master,Personal,31,475453,54,1565412
+Male,Single,Self-employed,Diploma,Medical,41,667957,36,1906759
+Male,Married,Unemployed,Bachelor,Medical,19,731037,34,1770389
+Female,Married,Self-employed,Master,Personal,62,274803,10,1839780
+Female,Divorced,Self-employed,Bachelor,Medical,43,96516,57,482184
+Male,Divorced,Unemployed,Master,Housing,31,84567,30,1259725
+Male,Married,Salaried,PhD,Business,24,811469,46,289654
+Female,Widowed,Salaried,Diploma,Medical,20,136498,36,477991
+Female,Married,Salaried,PhD,Housing,64,712098,26,1287792
+Male,Single,Salaried,High School,Business,40,474894,25,1933578
+Male,Divorced,Self-employed,Bachelor,Housing,63,546397,44,1275745
+Female,Single,Unemployed,PhD,Housing,60,294154,27,860935
+Female,Single,Salaried,Master,Education,64,805219,9,708139
+Male,Married,Salaried,PhD,Business,62,773760,18,923272
+Female,Married,Self-employed,High School,Education,35,149544,50,1230403
+Female,Married,Self-employed,High School,Personal,55,256183,47,351407
+Female,Married,Salaried,High School,Education,52,688743,55,1993499
+Female,Widowed,Unemployed,PhD,Business,32,333853,54,367231
+Male,Widowed,Salaried,Master,Medical,42,473001,25,625770
+Male,Divorced,Self-employed,PhD,Education,54,778613,57,172989
+Female,Widowed,Unemployed,Diploma,Personal,45,44518,18,1509192
+Male,Widowed,Salaried,Master,Education,27,63909,22,876547
+Male,Widowed,Unemployed,Master,Business,56,814783,59,326393
+Female,Single,Salaried,Diploma,Medical,34,734984,41,1867119
+Male,Divorced,Unemployed,Master,Business,56,980834,38,1014329
+Male,Married,Salaried,Bachelor,Housing,39,525693,6,684649
+Male,Widowed,Unemployed,Bachelor,Medical,43,549570,20,1909608
+Male,Single,Salaried,Master,Medical,61,488082,18,349850
+Male,Single,Salaried,PhD,Medical,42,249017,22,1904230
+Female,Single,Self-employed,Bachelor,Personal,34,424994,29,1459761
+Male,Widowed,Unemployed,PhD,Education,30,951768,13,1989512
+Female,Married,Self-employed,Master,Business,37,462891,55,91139
+Male,Married,Unemployed,Bachelor,Medical,42,801507,32,689207
+Male,Married,Self-employed,Bachelor,Medical,21,479164,50,821965
+Female,Single,Unemployed,Bachelor,Business,27,713814,28,353446
+Female,Widowed,Self-employed,Diploma,Personal,20,38365,51,1324332
+Female,Widowed,Salaried,Bachelor,Education,58,475982,13,1448558
+Male,Divorced,Self-employed,Bachelor,Education,62,451416,13,1035663
+Female,Divorced,Unemployed,Bachelor,Business,35,283146,31,714006
+Male,Single,Salaried,PhD,Personal,64,286091,52,1767479
+Female,Single,Unemployed,PhD,Personal,53,220294,18,1848432
+Female,Single,Self-employed,Bachelor,Education,64,891272,44,1095716
+Male,Single,Self-employed,PhD,Housing,39,126219,42,1776721
+Female,Married,Self-employed,High School,Personal,51,350754,54,914785
+Male,Widowed,Self-employed,Diploma,Medical,64,848574,33,1449712
+Male,Married,Self-employed,Bachelor,Medical,25,590595,30,887860
+Female,Divorced,Unemployed,Diploma,Housing,57,145565,21,1646641
+Female,Widowed,Unemployed,Bachelor,Medical,61,789383,7,107939
+Female,Married,Self-employed,Bachelor,Education,36,322229,59,1544818
+Female,Married,Unemployed,Diploma,Housing,59,568516,23,1971458
+Male,Married,Unemployed,Master,Housing,58,745036,22,73548
+Male,Divorced,Unemployed,Bachelor,Business,54,979379,35,506437
+Female,Single,Unemployed,Diploma,Education,23,434871,44,1748413
+Male,Divorced,Salaried,Diploma,Housing,43,577760,18,483917
+Female,Married,Salaried,PhD,Business,51,845869,37,494503
+Male,Divorced,Unemployed,Master,Personal,62,976920,55,187799
+Female,Widowed,Self-employed,Master,Personal,23,856143,34,815820
+Male,Married,Unemployed,PhD,Education,54,147888,51,231789
+Male,Divorced,Salaried,Master,Education,50,87175,35,475643
+Female,Single,Salaried,Bachelor,Education,39,598595,23,1770628
+Female,Widowed,Salaried,Master,Housing,38,318877,18,1654489
+Female,Divorced,Salaried,High School,Business,23,924634,48,1909926
+Male,Widowed,Unemployed,PhD,Education,23,105028,26,484352
+Female,Married,Salaried,Diploma,Medical,21,519666,35,1999834
+Female,Married,Self-employed,Diploma,Medical,47,152312,26,1737745
+Male,Widowed,Self-employed,PhD,Personal,28,501450,53,1544201
+Female,Single,Self-employed,Diploma,Business,47,102493,22,852009
+Male,Divorced,Self-employed,Diploma,Education,48,135149,45,1445875
+Female,Single,Salaried,High School,Personal,41,763704,24,161776
+Male,Widowed,Unemployed,Master,Education,26,212435,57,935678
+Male,Married,Unemployed,Master,Medical,20,173834,20,1856860
+Female,Single,Salaried,Diploma,Personal,48,280403,14,832119
+Male,Single,Unemployed,Master,Business,57,191211,57,563624
+Male,Divorced,Salaried,Diploma,Education,54,925207,15,262803
+Male,Single,Unemployed,Master,Education,53,286993,49,208761
+Male,Divorced,Self-employed,PhD,Education,41,353912,36,1765090
+Female,Widowed,Unemployed,PhD,Business,48,378252,58,547873
+Male,Single,Self-employed,High School,Education,23,886141,28,407092
+Male,Married,Unemployed,Master,Education,19,327013,57,71341
+Male,Widowed,Unemployed,Bachelor,Business,37,923320,35,409698
+Male,Divorced,Salaried,Master,Education,45,73095,38,1304329
+Male,Divorced,Salaried,High School,Education,28,127886,57,1992806
+Male,Married,Salaried,Diploma,Personal,21,867342,14,358474
+Female,Widowed,Salaried,Diploma,Business,32,489926,59,823429
+Female,Single,Unemployed,Bachelor,Personal,23,295711,52,1448479
+Male,Divorced,Unemployed,PhD,Education,47,45292,6,773776
+Male,Divorced,Unemployed,Diploma,Medical,55,84813,49,1879003
+Male,Married,Self-employed,Master,Education,19,631424,40,1447527
+Female,Single,Salaried,Master,Personal,32,585919,16,869745
+Female,Single,Salaried,PhD,Business,28,19885,39,359044
+Female,Single,Self-employed,Diploma,Medical,25,987163,21,128840
+Male,Widowed,Salaried,High School,Housing,43,195378,14,1264343
+Male,Married,Salaried,PhD,Housing,62,862746,37,211297
+Female,Divorced,Self-employed,Bachelor,Education,61,337231,20,922504
+Female,Widowed,Unemployed,PhD,Business,22,432381,17,1981375
+Female,Divorced,Salaried,Master,Medical,23,986433,38,99156
+Male,Divorced,Salaried,PhD,Personal,43,470244,50,258281
+Male,Married,Self-employed,High School,Housing,21,892430,19,137453
+Male,Single,Salaried,High School,Medical,36,584100,13,1781765
+Female,Divorced,Self-employed,PhD,Housing,37,715860,13,1048412
+Male,Single,Self-employed,High School,Education,50,482367,32,75938
+Male,Married,Salaried,Diploma,Education,37,330787,17,109164
+Female,Single,Self-employed,Diploma,Personal,29,54900,6,497746
+Male,Widowed,Self-employed,Bachelor,Education,64,446162,48,773559
+Female,Widowed,Salaried,Diploma,Housing,18,411067,45,634570
+Female,Married,Salaried,PhD,Business,43,812720,47,1408521
+Male,Married,Unemployed,PhD,Personal,31,82692,56,452681
+Female,Single,Unemployed,High School,Education,55,470796,16,1364046
+Male,Widowed,Unemployed,Bachelor,Education,54,410584,44,1781530
+Male,Single,Self-employed,Master,Medical,28,881868,48,1214395
+Female,Married,Salaried,High School,Education,53,761496,36,1365483
+Female,Single,Self-employed,Master,Education,30,56403,22,531873
+Female,Widowed,Self-employed,PhD,Personal,60,625458,38,191900
+Male,Married,Salaried,Master,Personal,20,805600,37,1408308
+Male,Divorced,Self-employed,High School,Education,50,322023,34,847653
+Male,Divorced,Self-employed,Diploma,Education,23,69871,26,454427
+Female,Divorced,Self-employed,PhD,Housing,27,492604,26,587857
+Male,Married,Unemployed,PhD,Business,22,501862,45,1326542
+Male,Single,Self-employed,Diploma,Business,40,42174,28,87860
+Female,Married,Unemployed,Master,Business,27,765111,11,252630
+Female,Divorced,Salaried,PhD,Housing,61,233563,27,1930345
+Male,Married,Unemployed,Diploma,Personal,19,147653,55,1621801
+Male,Single,Self-employed,High School,Medical,30,120155,43,718875
+Female,Widowed,Unemployed,Master,Medical,57,343997,42,645983
+Female,Widowed,Salaried,High School,Housing,19,860478,50,303078
+Male,Widowed,Self-employed,High School,Education,37,321822,56,816887
+Male,Married,Unemployed,Diploma,Personal,18,511608,59,418893
+Female,Married,Unemployed,Master,Housing,54,823081,13,1054731
+Male,Widowed,Unemployed,High School,Personal,26,137795,46,1254552
+Female,Married,Salaried,High School,Education,34,98668,54,765295
+Male,Married,Salaried,PhD,Personal,26,747685,40,1928798
+Female,Married,Self-employed,Bachelor,Education,28,679927,56,1953588
+Male,Married,Self-employed,PhD,Medical,32,483620,16,1042652
+Female,Married,Self-employed,Bachelor,Personal,41,886338,29,1104212
+Female,Divorced,Unemployed,Diploma,Housing,55,773429,54,311578
+Female,Married,Self-employed,Bachelor,Personal,52,630307,26,1437849
+Male,Married,Unemployed,Diploma,Personal,47,989448,56,333816
+Male,Married,Self-employed,PhD,Housing,48,874434,7,1890820
+Male,Single,Self-employed,High School,Education,22,563091,45,1326269
+Male,Single,Unemployed,Bachelor,Housing,61,683590,24,571393
+Female,Married,Unemployed,Bachelor,Education,31,683222,44,1099230
+Female,Divorced,Self-employed,Bachelor,Education,28,446571,33,628921
+Female,Single,Salaried,Diploma,Education,26,958763,22,1115719
+Male,Single,Self-employed,Bachelor,Housing,51,240147,11,630222
+Female,Widowed,Salaried,High School,Education,29,565083,24,1428054
+Female,Widowed,Unemployed,High School,Housing,52,517820,43,677751
+Female,Widowed,Self-employed,Diploma,Business,52,280914,33,175851
+Female,Single,Self-employed,Diploma,Personal,18,545381,7,603375
+Male,Married,Salaried,PhD,Medical,57,974075,43,716978
+Female,Single,Unemployed,Master,Business,39,403409,42,844878
+Female,Widowed,Salaried,Bachelor,Business,46,372455,56,1987135
+Male,Married,Salaried,Bachelor,Personal,25,289713,57,361011
+Male,Divorced,Salaried,Diploma,Business,28,807622,9,494244
+Male,Single,Self-employed,High School,Personal,58,859256,27,1945109
+Female,Married,Self-employed,Master,Education,54,708112,31,208272
+Female,Divorced,Self-employed,PhD,Personal,31,697687,54,276179
+Male,Single,Self-employed,Bachelor,Personal,47,314214,48,924506
+Female,Widowed,Unemployed,PhD,Personal,52,574485,41,1815401
+Female,Widowed,Salaried,High School,Housing,38,536549,18,1601292
+Male,Single,Salaried,Master,Education,54,167584,57,1316084
+Male,Widowed,Salaried,PhD,Education,22,934220,37,1741286
+Male,Divorced,Self-employed,Diploma,Medical,36,358939,22,400036
+Female,Divorced,Salaried,Master,Personal,31,301077,46,1318207
+Female,Widowed,Salaried,PhD,Business,43,669738,41,432188
+Female,Single,Salaried,High School,Medical,21,574871,51,89148
+Female,Divorced,Self-employed,High School,Medical,42,384226,24,1967936
+Male,Married,Unemployed,High School,Housing,62,881803,40,1250346
+Female,Single,Salaried,Diploma,Medical,59,694393,51,485686
+Female,Widowed,Salaried,High School,Business,42,427216,45,535287
+Male,Single,Salaried,PhD,Medical,35,121032,33,1936668
+Male,Married,Self-employed,Diploma,Personal,57,216940,6,1920458
+Female,Single,Unemployed,PhD,Housing,25,314748,47,1810399
+Male,Divorced,Self-employed,High School,Education,56,471552,23,345901
+Female,Single,Unemployed,Diploma,Housing,57,891506,53,128012
+Male,Married,Self-employed,Master,Personal,31,236727,45,1991758
+Male,Widowed,Unemployed,Bachelor,Housing,49,83869,38,963475
+Female,Married,Self-employed,High School,Education,55,801842,17,1037751
+Female,Married,Unemployed,Master,Business,50,879807,13,106116
+Female,Widowed,Salaried,High School,Medical,40,721404,29,194233
+Female,Widowed,Salaried,Master,Personal,32,728675,21,1130728
+Female,Divorced,Self-employed,Diploma,Education,50,892487,55,156379
+Male,Married,Unemployed,Diploma,Business,42,212416,9,1325481
+Female,Widowed,Unemployed,High School,Business,34,934300,43,1119412
+Male,Married,Salaried,High School,Medical,50,621004,49,271439
+Female,Married,Unemployed,Master,Personal,64,588533,32,1285296
+Male,Divorced,Salaried,High School,Medical,19,577344,14,1255979
+Male,Single,Salaried,High School,Education,31,420925,52,1240411
+Female,Married,Unemployed,PhD,Housing,57,785024,21,905876
+Female,Divorced,Salaried,Bachelor,Education,57,330701,17,667397
+Female,Single,Unemployed,PhD,Personal,56,289687,36,1248835
+Female,Divorced,Unemployed,Diploma,Education,23,440634,29,1241605
+Female,Married,Unemployed,Master,Housing,23,759971,19,447595
+Male,Widowed,Unemployed,Diploma,Medical,20,506507,50,656306
+Female,Married,Salaried,Bachelor,Medical,24,892470,30,1745940
+Female,Single,Self-employed,PhD,Personal,25,419940,39,1781041
+Male,Widowed,Self-employed,Master,Business,59,275972,8,1492669
+Female,Divorced,Unemployed,PhD,Personal,32,126656,29,1802289
+Male,Divorced,Unemployed,Bachelor,Housing,64,27087,59,1968796
+Female,Married,Salaried,PhD,Business,46,940109,47,1981878
+Female,Widowed,Unemployed,High School,Education,50,303481,14,1838521
+Female,Married,Self-employed,PhD,Personal,47,146554,31,1444028
+Female,Divorced,Salaried,Bachelor,Medical,56,861765,25,1543359
+Female,Widowed,Self-employed,Master,Housing,44,495757,45,370057
+Female,Married,Unemployed,Bachelor,Housing,53,192024,15,576925
+Female,Married,Self-employed,Diploma,Medical,46,146535,24,515994
+Female,Married,Salaried,Master,Business,55,777524,8,878457
+Male,Widowed,Self-employed,Master,Housing,50,604736,29,1860853
+Male,Widowed,Salaried,Bachelor,Medical,54,538936,10,806547
+Male,Married,Unemployed,Diploma,Personal,44,402720,8,411652
+Female,Married,Salaried,Diploma,Housing,50,305767,32,656752
+Female,Married,Salaried,Master,Medical,21,462372,21,1389462
+Female,Divorced,Unemployed,Master,Personal,39,45634,54,586119
+Male,Married,Self-employed,Diploma,Medical,19,972106,20,163768
+Male,Married,Unemployed,Master,Medical,27,386742,40,821271
+Male,Married,Unemployed,Master,Housing,22,321478,17,1445812
+Male,Married,Salaried,Diploma,Medical,27,865080,46,927311
+Male,Widowed,Salaried,PhD,Business,50,556342,58,1973378
+Female,Single,Salaried,Bachelor,Personal,55,604316,49,962969
+Male,Divorced,Unemployed,Diploma,Business,30,556495,31,1014266
+Male,Widowed,Unemployed,PhD,Personal,48,483866,52,679112
+Male,Married,Salaried,Master,Personal,64,765181,39,1066462
+Female,Widowed,Self-employed,Master,Housing,53,615842,28,1187317
+Male,Divorced,Salaried,High School,Medical,62,686746,36,1117406
+Female,Widowed,Unemployed,High School,Business,41,617564,55,1415764
+Female,Widowed,Salaried,Master,Personal,32,987022,25,910380
+Male,Single,Salaried,High School,Business,46,324925,17,119202
+Male,Divorced,Self-employed,Bachelor,Medical,25,718140,28,349189
+Female,Married,Salaried,Diploma,Education,22,202512,9,267394
+Male,Married,Self-employed,Master,Personal,46,971703,28,1609049
+Male,Married,Salaried,High School,Personal,64,857467,53,1300699
+Female,Married,Unemployed,Master,Business,21,542498,53,1992517
+Female,Divorced,Salaried,Diploma,Housing,29,578651,6,207699
+Female,Married,Self-employed,PhD,Medical,62,776535,59,327342
+Female,Single,Self-employed,High School,Education,19,612567,30,905953
+Female,Single,Salaried,Bachelor,Education,44,201420,7,554655
+Female,Widowed,Salaried,Diploma,Business,48,720644,35,1729335
+Male,Married,Unemployed,High School,Medical,53,510844,8,1914483
+Female,Widowed,Self-employed,Master,Housing,53,213196,26,286824
+Female,Divorced,Salaried,PhD,Medical,43,209919,30,1610790
+Female,Divorced,Self-employed,Diploma,Education,60,425648,25,1117979
+Male,Divorced,Unemployed,PhD,Housing,44,267324,54,1102257
+Female,Single,Self-employed,Bachelor,Education,22,729449,57,403699
+Male,Single,Salaried,PhD,Business,37,982902,27,1978130
+Male,Single,Unemployed,PhD,Business,28,764651,26,1098072
+Female,Single,Self-employed,Master,Business,27,668681,38,1738124
+Male,Married,Salaried,Bachelor,Medical,57,877780,57,1796228
+Female,Married,Salaried,High School,Medical,55,440599,43,679674
+Male,Married,Self-employed,High School,Education,23,385960,20,1856242
+Female,Married,Salaried,PhD,Education,25,744042,51,448845
+Female,Divorced,Self-employed,Master,Medical,40,657341,57,143246
+Male,Divorced,Self-employed,High School,Personal,64,482406,20,1194440
+Female,Married,Self-employed,Master,Education,43,193965,51,258886
+Female,Divorced,Unemployed,Diploma,Business,63,176892,30,320561
+Male,Married,Salaried,Master,Education,60,862694,26,1479608
+Male,Widowed,Salaried,Master,Housing,29,144832,29,1264413
+Male,Single,Unemployed,Diploma,Education,43,163262,10,910931
+Female,Single,Self-employed,Master,Personal,30,77411,11,1343736
+Male,Widowed,Self-employed,High School,Education,57,295521,54,237646
+Female,Divorced,Self-employed,PhD,Education,35,449953,48,1070332
+Male,Married,Self-employed,PhD,Education,42,997073,53,1582337
+Female,Single,Self-employed,Bachelor,Business,50,48211,49,833566
+Female,Single,Unemployed,Diploma,Medical,64,223981,52,864107
+Male,Divorced,Unemployed,PhD,Business,57,275888,28,1355257
+Male,Married,Self-employed,Master,Education,60,790926,9,1564059
+Male,Single,Salaried,PhD,Business,29,297139,32,1794499
+Female,Widowed,Unemployed,Master,Housing,61,682337,23,585620
+Male,Single,Unemployed,High School,Housing,53,763298,26,829105
+Male,Widowed,Salaried,Master,Housing,21,568830,33,855609
+Female,Widowed,Unemployed,Bachelor,Education,22,20651,40,966992
+Female,Married,Unemployed,PhD,Personal,54,109239,27,270326
+Male,Widowed,Unemployed,Diploma,Personal,25,875363,45,773807
+Female,Married,Self-employed,High School,Personal,59,760704,28,1360425
+Female,Single,Salaried,Master,Business,45,898544,8,369248
+Male,Widowed,Unemployed,Diploma,Education,48,813147,45,396479
+Female,Single,Salaried,PhD,Medical,26,447625,55,1475658
+Male,Single,Salaried,Diploma,Housing,46,165378,15,1179306
+Female,Single,Unemployed,Diploma,Personal,31,160158,30,1496743
+Female,Widowed,Salaried,Master,Personal,57,417592,57,1336050
+Male,Divorced,Self-employed,PhD,Education,58,333494,54,340477
+Female,Divorced,Unemployed,High School,Medical,39,343569,13,333817
+Male,Divorced,Self-employed,High School,Business,28,506574,16,950853
+Female,Divorced,Unemployed,High School,Personal,40,439852,10,1663734
+Female,Single,Salaried,Diploma,Housing,18,882552,50,303017
+Female,Single,Salaried,PhD,Personal,63,911321,58,701824
+Male,Widowed,Unemployed,Bachelor,Education,54,454865,42,383245
+Female,Married,Salaried,High School,Housing,38,437826,50,859253
+Female,Married,Unemployed,Master,Housing,43,675418,43,1124070
+Female,Single,Self-employed,Master,Medical,63,265948,34,1722341
+Female,Widowed,Salaried,Diploma,Personal,53,531481,10,1486803
+Male,Widowed,Unemployed,Bachelor,Housing,40,871069,14,1828096
+Male,Widowed,Self-employed,High School,Personal,18,481249,53,424842
+Male,Married,Self-employed,Diploma,Personal,57,866626,7,423704
+Female,Married,Salaried,Master,Housing,32,873349,6,1492627
+Male,Widowed,Unemployed,High School,Housing,38,74200,45,1092630
+Female,Married,Unemployed,High School,Medical,64,115848,56,330790
+Female,Widowed,Unemployed,Bachelor,Personal,26,116022,35,173777
+Male,Single,Self-employed,Diploma,Personal,26,711979,16,1700224
+Female,Married,Self-employed,High School,Business,27,944658,33,1398055
+Male,Married,Salaried,PhD,Housing,43,422755,49,905783
+Female,Married,Self-employed,PhD,Personal,58,790741,17,951366
+Male,Divorced,Unemployed,PhD,Medical,52,856490,44,183501
+Female,Widowed,Unemployed,High School,Personal,42,72068,31,1402670
+Male,Divorced,Self-employed,PhD,Medical,43,480529,18,634942
+Male,Married,Salaried,Master,Housing,28,896364,13,419566
+Female,Married,Salaried,Diploma,Housing,55,171445,59,1470654
+Male,Divorced,Unemployed,High School,Medical,19,698514,33,169975
+Female,Widowed,Salaried,Diploma,Education,24,147103,35,773503
+Male,Widowed,Salaried,Master,Business,35,234605,14,1451906
+Female,Married,Unemployed,Bachelor,Education,44,213047,44,1464954
+Male,Widowed,Salaried,High School,Business,51,819217,36,1725190
+Female,Single,Unemployed,High School,Personal,44,259768,26,1176103
+Female,Single,Self-employed,High School,Education,34,694029,52,398848
+Male,Married,Salaried,Master,Housing,60,104475,39,1531177
+Female,Widowed,Self-employed,Master,Education,61,520370,36,216991
+Female,Single,Unemployed,Master,Education,41,536570,57,146952
+Male,Widowed,Self-employed,PhD,Education,42,699984,30,1945790
+Female,Widowed,Salaried,PhD,Housing,24,713798,17,383260
+Female,Divorced,Self-employed,Bachelor,Personal,23,230972,6,515806
+Female,Single,Self-employed,Bachelor,Personal,41,863966,27,926058
+Male,Widowed,Unemployed,Diploma,Housing,50,172777,45,1532179
+Male,Widowed,Salaried,Master,Personal,46,965748,42,1769759
+Male,Divorced,Unemployed,PhD,Education,60,871396,52,96015
+Male,Widowed,Unemployed,PhD,Business,39,702797,6,152877
+Female,Single,Salaried,Diploma,Business,43,218944,6,1376059
+Female,Divorced,Self-employed,Master,Medical,45,653294,47,1621741
+Female,Married,Unemployed,High School,Medical,38,246440,59,1757427
+Female,Married,Self-employed,Bachelor,Housing,24,738342,47,443922
+Male,Widowed,Self-employed,PhD,Personal,34,322727,26,1720357
+Male,Single,Salaried,PhD,Housing,37,834824,20,721088
+Female,Single,Unemployed,PhD,Housing,58,17461,22,974501
+Female,Married,Self-employed,Master,Housing,37,634411,27,1595329
+Male,Single,Unemployed,Bachelor,Housing,39,806948,43,765768
+Female,Divorced,Self-employed,Bachelor,Education,45,482501,40,1025601
+Female,Single,Self-employed,PhD,Business,57,158586,50,441670
+Female,Widowed,Self-employed,Master,Medical,24,393395,21,481739
+Female,Widowed,Salaried,PhD,Business,18,504178,13,1744512
+Female,Single,Self-employed,High School,Medical,49,963772,52,1385883
+Female,Widowed,Salaried,High School,Personal,30,241496,22,1771654
+Female,Widowed,Salaried,Diploma,Personal,47,702148,22,661796
+Female,Single,Salaried,Diploma,Medical,40,741109,59,789127
+Male,Married,Salaried,High School,Medical,36,726409,31,1400339
+Female,Married,Unemployed,Master,Education,49,858925,18,1372846
+Female,Divorced,Self-employed,PhD,Medical,47,570315,22,1687790
+Female,Divorced,Salaried,Master,Education,46,889979,43,90633
+Female,Divorced,Unemployed,Bachelor,Education,62,183921,22,1307302
+Female,Married,Self-employed,Master,Personal,46,896559,53,1101893
+Male,Single,Self-employed,Diploma,Education,47,683218,19,357124
+Male,Widowed,Self-employed,High School,Personal,33,749522,50,880547
+Female,Single,Salaried,PhD,Education,57,613291,11,1815582
+Male,Divorced,Unemployed,PhD,Housing,36,717755,40,1928166
+Female,Married,Salaried,Bachelor,Medical,35,574046,51,761323
+Female,Married,Unemployed,PhD,Business,18,326456,19,1539423
+Female,Divorced,Salaried,Diploma,Housing,31,340814,52,1803252
+Male,Divorced,Salaried,High School,Education,64,92279,13,1466084
+Female,Married,Self-employed,PhD,Housing,19,25434,20,1551134
+Male,Divorced,Unemployed,Master,Medical,45,729407,59,1376224
+Female,Married,Unemployed,Bachelor,Education,47,450991,32,773953
+Female,Single,Self-employed,Bachelor,Medical,55,347913,18,469876
+Female,Widowed,Unemployed,Diploma,Personal,21,780042,54,1922204
+Female,Widowed,Salaried,Master,Business,18,338821,36,1950946
+Female,Widowed,Unemployed,Bachelor,Personal,25,93555,58,976109
+Male,Widowed,Self-employed,PhD,Personal,46,662667,40,1418108
+Male,Married,Self-employed,PhD,Business,56,751280,11,1310945
+Female,Divorced,Unemployed,PhD,Medical,20,773799,10,1678365
+Male,Married,Self-employed,Master,Business,49,186806,27,758669
+Male,Divorced,Unemployed,Bachelor,Personal,27,898097,54,77043
+Female,Married,Self-employed,High School,Personal,27,491719,28,83635
+Male,Married,Self-employed,Bachelor,Housing,36,443819,30,260387
+Male,Widowed,Unemployed,Bachelor,Business,63,479924,39,1179267
+Male,Widowed,Self-employed,High School,Medical,51,78803,31,549730
+Male,Married,Unemployed,High School,Medical,50,442548,52,1918140
+Male,Married,Unemployed,Master,Personal,40,888135,10,1056891
+Female,Married,Unemployed,Bachelor,Education,45,817744,31,1900374
+Male,Single,Salaried,Diploma,Housing,49,758736,25,1192520
+Male,Married,Self-employed,Diploma,Business,24,487742,11,777467
+Male,Married,Self-employed,Bachelor,Housing,46,709539,11,505796
+Female,Divorced,Salaried,Master,Medical,25,736802,55,951699
+Male,Single,Self-employed,Bachelor,Education,18,255404,23,1614154
+Female,Married,Salaried,High School,Education,20,652249,9,1047057
+Male,Divorced,Salaried,High School,Housing,41,312523,22,1137812
+Male,Married,Unemployed,PhD,Personal,40,27297,19,1364870
+Male,Widowed,Salaried,PhD,Medical,25,798443,19,1472089
+Female,Divorced,Unemployed,Diploma,Education,64,519346,18,855855
+Male,Single,Salaried,High School,Education,54,130234,12,1627001
+Male,Married,Self-employed,Master,Medical,20,578302,49,604280
+Male,Widowed,Salaried,Master,Personal,50,777454,20,1995548
+Male,Widowed,Salaried,Diploma,Education,45,939242,24,1061942
+Male,Single,Unemployed,PhD,Housing,64,890765,48,165140
+Male,Widowed,Salaried,PhD,Medical,25,188570,52,225993
+Female,Widowed,Self-employed,High School,Housing,51,793152,49,1744089
+Female,Divorced,Self-employed,Bachelor,Medical,52,807552,40,1571161
+Male,Married,Self-employed,Master,Business,49,519733,22,903349
+Male,Married,Salaried,Bachelor,Housing,41,936271,40,1434410
+Male,Single,Self-employed,PhD,Housing,31,294996,24,1394955
+Female,Widowed,Unemployed,High School,Business,49,351383,25,260047
+Female,Single,Unemployed,Diploma,Medical,63,404145,41,1641986
+Male,Married,Self-employed,Diploma,Medical,60,742847,40,336100
+Female,Married,Self-employed,Bachelor,Personal,33,521603,37,113879
+Female,Widowed,Self-employed,PhD,Housing,21,625863,53,632848
+Female,Married,Salaried,Master,Education,54,517365,49,1088939
+Female,Widowed,Self-employed,Master,Medical,38,629328,45,422454
+Female,Widowed,Salaried,PhD,Personal,31,158510,29,774045
+Male,Married,Self-employed,Bachelor,Personal,48,189587,22,992164
+Female,Widowed,Unemployed,Master,Education,35,540032,12,1095533
+Female,Single,Salaried,PhD,Housing,24,749180,48,1335844
+Female,Divorced,Unemployed,High School,Personal,27,445633,55,529280
+Male,Married,Unemployed,PhD,Housing,24,934573,6,1606232
+Male,Widowed,Self-employed,Diploma,Education,50,838791,40,837600
+Male,Divorced,Self-employed,High School,Personal,40,685159,37,357268
+Female,Single,Salaried,Diploma,Personal,38,370890,41,1789833
+Female,Married,Salaried,PhD,Medical,36,759122,18,720392
+Female,Single,Unemployed,High School,Housing,36,655194,11,1413517
+Male,Widowed,Salaried,Diploma,Education,53,211260,19,1920302
+Male,Married,Salaried,PhD,Personal,46,755219,42,1535619
+Female,Single,Self-employed,Diploma,Business,35,787881,53,1888524
+Male,Widowed,Salaried,Diploma,Personal,19,773034,20,1249399
+Female,Single,Unemployed,Diploma,Housing,18,541885,52,604661
+Female,Married,Self-employed,Diploma,Housing,64,843525,9,172026
+Male,Divorced,Salaried,Diploma,Medical,22,440442,45,1128846
+Male,Divorced,Unemployed,Master,Business,37,213199,21,977890
+Female,Single,Salaried,High School,Housing,28,386794,33,1331507
+Male,Widowed,Self-employed,PhD,Medical,59,494585,21,1818753
+Male,Married,Salaried,Master,Education,19,742722,9,1163760
+Male,Widowed,Unemployed,Diploma,Education,20,691777,50,557532
+Female,Divorced,Self-employed,Master,Personal,40,946197,31,785053
+Female,Divorced,Unemployed,Bachelor,Business,29,482890,33,612167
+Male,Divorced,Self-employed,Master,Personal,37,393100,37,1072560
+Female,Divorced,Salaried,Master,Personal,22,125598,50,361741
+Female,Divorced,Self-employed,Diploma,Business,54,260100,7,1006636
+Male,Single,Self-employed,Diploma,Business,55,792877,36,53626
+Male,Single,Salaried,Bachelor,Housing,47,718521,8,1708800
+Female,Divorced,Self-employed,Diploma,Medical,26,786676,59,1593971
+Male,Single,Self-employed,PhD,Housing,51,143241,13,1857737
+Male,Single,Unemployed,High School,Housing,61,749452,29,1704379
+Female,Widowed,Self-employed,PhD,Personal,52,163124,20,258137
+Male,Divorced,Unemployed,Diploma,Medical,39,475065,48,1678254
+Male,Married,Salaried,High School,Medical,61,214923,36,984149
+Female,Widowed,Unemployed,High School,Medical,41,18036,14,797320
+Female,Widowed,Unemployed,Diploma,Medical,34,566066,44,1677008
+Male,Single,Self-employed,Bachelor,Housing,27,955238,50,194454
+Male,Divorced,Self-employed,PhD,Business,47,164245,7,1626889
+Male,Widowed,Salaried,High School,Medical,63,695763,13,486442
+Female,Widowed,Unemployed,Diploma,Medical,40,993825,12,1440100
+Male,Married,Salaried,High School,Education,49,212747,49,304043
+Female,Widowed,Self-employed,Bachelor,Medical,34,933848,56,693198
+Female,Married,Self-employed,Bachelor,Business,34,553088,44,512927
+Female,Married,Salaried,Master,Personal,31,297516,47,670343
+Female,Single,Unemployed,PhD,Housing,26,333660,21,1486909
+Male,Divorced,Self-employed,Master,Business,57,816970,40,780070
+Female,Widowed,Unemployed,Bachelor,Education,19,860350,35,970947
+Male,Divorced,Unemployed,Diploma,Business,62,942477,15,857827
+Male,Married,Salaried,Master,Education,42,343299,43,1895733
+Male,Widowed,Salaried,Bachelor,Business,56,765600,23,1656325
+Female,Divorced,Self-employed,PhD,Personal,26,69500,55,1356648
+Female,Single,Self-employed,Bachelor,Housing,39,177647,10,1663979
+Male,Single,Unemployed,Diploma,Business,60,246527,58,160084
+Female,Widowed,Self-employed,Bachelor,Personal,63,445477,34,1064391
+Female,Divorced,Self-employed,Bachelor,Housing,21,644947,44,395876
+Female,Single,Salaried,PhD,Housing,43,562004,39,1079649
+Male,Widowed,Self-employed,High School,Education,46,406452,48,523006
+Male,Divorced,Salaried,Bachelor,Business,62,419064,50,1440277
+Male,Single,Unemployed,Master,Medical,51,12352,28,907692
+Male,Married,Self-employed,High School,Personal,40,143004,10,1782626
+Female,Single,Unemployed,Bachelor,Education,54,872881,35,837839
+Male,Divorced,Self-employed,PhD,Education,28,542844,11,123568
+Male,Widowed,Unemployed,Master,Housing,23,796261,51,1157136
+Male,Single,Self-employed,Diploma,Business,35,358980,49,1014844
+Male,Divorced,Salaried,Diploma,Education,38,670858,9,1247442
+Female,Divorced,Unemployed,Bachelor,Business,59,741478,34,1249529
+Male,Divorced,Unemployed,Diploma,Education,53,60098,28,1840228
+Male,Single,Unemployed,Diploma,Business,58,991890,11,811058
+Male,Single,Salaried,Master,Business,55,384313,37,276024
+Female,Single,Self-employed,Bachelor,Education,51,674929,47,1279351
+Female,Single,Unemployed,High School,Education,34,257199,23,1011858
+Female,Widowed,Salaried,PhD,Housing,54,136060,20,141288
+Female,Married,Salaried,Master,Medical,42,197954,45,521678
+Female,Divorced,Self-employed,Bachelor,Personal,55,735753,37,1479740
+Female,Divorced,Self-employed,Master,Business,29,140544,14,935733
+Male,Divorced,Salaried,PhD,Education,40,534628,42,1872700
+Female,Single,Self-employed,High School,Personal,59,709309,15,64390
+Female,Single,Self-employed,PhD,Education,39,616590,25,547619
+Female,Single,Unemployed,Master,Education,38,989947,11,268547
+Female,Widowed,Self-employed,Bachelor,Personal,44,757028,53,601595
+Male,Widowed,Self-employed,Diploma,Business,48,477243,8,277436
+Female,Divorced,Salaried,Bachelor,Education,23,534426,47,275121
+Male,Divorced,Self-employed,PhD,Housing,44,403574,16,301063
+Male,Widowed,Self-employed,Diploma,Business,57,653907,48,1123078
+Female,Single,Self-employed,Bachelor,Housing,51,478466,22,1645350
+Female,Divorced,Self-employed,Diploma,Business,29,881808,37,1472533
+Female,Divorced,Unemployed,Bachelor,Business,62,634219,9,1792194
+Male,Widowed,Unemployed,High School,Education,24,958158,9,1811652
+Male,Widowed,Self-employed,Master,Housing,27,166951,22,278300
+Female,Widowed,Unemployed,Master,Housing,62,877964,46,153920
+Male,Divorced,Self-employed,Bachelor,Medical,34,852210,24,1835430
+Male,Married,Self-employed,Diploma,Personal,43,572060,10,1068056
+Male,Married,Self-employed,Diploma,Housing,38,68478,37,1443488
+Female,Widowed,Unemployed,PhD,Business,45,467569,27,978252
+Male,Single,Self-employed,High School,Education,63,561050,11,637073
+Male,Widowed,Salaried,Master,Medical,19,154355,40,650338
+Male,Single,Salaried,PhD,Business,60,729282,27,597026
+Female,Married,Unemployed,High School,Medical,18,704780,6,124231
+Female,Divorced,Self-employed,PhD,Medical,53,852000,25,123606
+Male,Married,Salaried,Master,Housing,43,881522,27,1585093
+Female,Married,Unemployed,PhD,Medical,46,816651,53,1402382
+Female,Divorced,Unemployed,Diploma,Education,38,853601,16,1479033
+Male,Divorced,Unemployed,Bachelor,Business,28,503671,18,1325945
+Male,Married,Salaried,PhD,Housing,57,609253,47,1900131
+Female,Married,Unemployed,PhD,Medical,28,187912,8,543896
+Female,Single,Salaried,Master,Personal,53,185767,14,206688
+Female,Married,Self-employed,Master,Business,56,246281,17,545898
+Female,Married,Salaried,PhD,Medical,57,94754,28,1371902
+Male,Single,Salaried,Bachelor,Medical,52,612276,19,1975377
+Female,Single,Unemployed,Master,Business,51,461558,38,1066382
+Male,Single,Unemployed,Master,Education,64,517732,23,1553805
+Female,Married,Salaried,PhD,Business,41,160023,54,212403
+Male,Divorced,Salaried,High School,Personal,39,666667,46,751458
+Male,Widowed,Salaried,High School,Housing,22,90388,14,1124704
+Male,Married,Self-employed,Bachelor,Personal,50,887200,28,1130132
+Male,Single,Salaried,High School,Housing,53,831860,15,1357046
+Male,Widowed,Salaried,High School,Education,64,249779,24,1775812
+Male,Single,Self-employed,High School,Housing,37,888453,52,1238597
+Male,Married,Salaried,High School,Medical,36,914850,10,626250
+Female,Widowed,Self-employed,PhD,Personal,52,216846,52,1712918
+Female,Widowed,Unemployed,High School,Personal,60,704335,57,567200
+Female,Divorced,Unemployed,Master,Education,34,142212,28,1300854
+Male,Single,Unemployed,High School,Medical,62,952346,35,1646963
+Male,Widowed,Self-employed,PhD,Housing,60,822853,30,1334519
+Male,Widowed,Salaried,High School,Education,51,798140,33,980220
+Male,Divorced,Self-employed,PhD,Housing,26,931134,39,233683
+Male,Divorced,Unemployed,High School,Personal,43,422811,50,1792821
+Male,Widowed,Self-employed,Master,Medical,19,610309,53,1413864
+Male,Married,Unemployed,Master,Housing,26,169380,52,1294868
+Female,Divorced,Unemployed,Diploma,Business,26,54789,30,582125
+Female,Married,Unemployed,Master,Education,57,983194,15,1279003
+Female,Single,Self-employed,PhD,Personal,34,36086,19,1276947
+Female,Married,Self-employed,High School,Education,18,289003,47,986663
+Male,Single,Self-employed,Bachelor,Medical,42,541972,51,953112
+Male,Single,Self-employed,Master,Personal,60,101088,35,822291
+Female,Widowed,Self-employed,Bachelor,Education,57,404423,46,1467522
+Male,Divorced,Self-employed,High School,Education,59,580387,30,1083879
+Female,Single,Self-employed,Bachelor,Personal,42,995000,19,676701
+Male,Divorced,Salaried,Diploma,Education,56,600381,40,101012
+Male,Divorced,Self-employed,PhD,Business,52,170761,57,180193
+Female,Married,Unemployed,High School,Education,20,845083,53,1026809
+Male,Married,Unemployed,Master,Medical,54,548181,39,268168
+Male,Single,Unemployed,Master,Medical,61,501024,15,198178
+Female,Single,Unemployed,Bachelor,Housing,61,600706,40,108123
+Female,Divorced,Self-employed,Diploma,Business,47,135074,16,161825
+Male,Single,Self-employed,Bachelor,Housing,55,899497,16,1631584
+Male,Divorced,Self-employed,PhD,Education,51,140351,26,1267309
+Male,Married,Salaried,High School,Housing,29,725371,26,820391
+Female,Divorced,Self-employed,Bachelor,Business,36,48635,27,1323546
+Female,Divorced,Unemployed,Master,Personal,54,983619,50,274866
+Female,Widowed,Self-employed,PhD,Medical,61,105071,12,1074208
+Male,Single,Salaried,Diploma,Personal,34,475918,22,988624
+Male,Widowed,Self-employed,Master,Education,27,874950,7,1249438
+Female,Widowed,Self-employed,Bachelor,Medical,64,378377,17,632943
+Male,Divorced,Self-employed,Diploma,Personal,29,900083,47,765003
+Female,Widowed,Unemployed,Master,Education,33,607093,23,1716312
+Male,Married,Salaried,PhD,Housing,41,986458,59,228446
+Male,Widowed,Self-employed,High School,Education,36,431280,16,748267
+Female,Single,Salaried,High School,Education,25,919245,21,1279719
+Female,Widowed,Salaried,PhD,Business,48,351207,54,1743371
+Female,Married,Unemployed,High School,Medical,38,274598,56,346956
+Male,Widowed,Self-employed,Master,Education,34,293022,23,886002
+Female,Single,Salaried,Bachelor,Education,40,192170,40,1411621
+Female,Single,Salaried,Master,Business,54,203226,58,1158762
+Female,Married,Self-employed,Diploma,Business,33,154063,31,1220642
+Female,Single,Salaried,Master,Education,23,602632,21,440508
+Male,Divorced,Unemployed,PhD,Business,25,901378,11,1804187
+Female,Married,Unemployed,Bachelor,Housing,42,570881,49,1819107
+Male,Single,Salaried,Diploma,Business,35,570592,48,86160
+Male,Divorced,Self-employed,Master,Personal,42,433602,52,69156
+Female,Married,Unemployed,Bachelor,Housing,29,720580,52,1174784
+Female,Married,Unemployed,High School,Business,32,123613,53,523196
+Male,Single,Self-employed,Diploma,Housing,43,734698,47,515536
+Female,Single,Unemployed,High School,Medical,58,497505,17,723289
+Male,Single,Salaried,Diploma,Housing,62,424299,18,509822
+Male,Widowed,Unemployed,PhD,Business,43,552642,9,1329802
+Male,Married,Salaried,High School,Education,64,294334,44,1554351
+Female,Married,Unemployed,Diploma,Education,49,540430,59,1545997
+Male,Widowed,Self-employed,High School,Personal,27,431614,7,1864630
+Female,Married,Unemployed,High School,Business,33,193043,31,1560267
+Female,Divorced,Salaried,High School,Education,24,838294,32,769701
+Female,Divorced,Unemployed,Master,Education,34,718770,32,931809
+Male,Divorced,Self-employed,Master,Personal,40,160575,20,355007
+Female,Married,Unemployed,Master,Housing,43,135438,13,787197
+Female,Single,Self-employed,Bachelor,Medical,38,582744,12,115439
+Male,Widowed,Self-employed,PhD,Housing,39,634455,52,1761130
+Female,Married,Unemployed,Bachelor,Personal,24,878467,51,1825323
+Female,Married,Unemployed,PhD,Housing,31,804448,45,695649
+Female,Married,Unemployed,Master,Education,32,274528,17,262986
+Female,Single,Salaried,PhD,Business,24,203392,18,1295862
+Female,Divorced,Salaried,Diploma,Personal,26,418288,48,1981184
+Female,Widowed,Salaried,High School,Personal,25,112239,22,1591084
+Male,Married,Salaried,Bachelor,Business,40,645719,22,79777
+Male,Widowed,Unemployed,PhD,Personal,46,876450,41,1355003
+Female,Married,Unemployed,Diploma,Personal,35,574798,26,1780119
+Female,Single,Unemployed,Diploma,Housing,48,714293,13,470661
+Male,Divorced,Self-employed,Diploma,Business,47,818258,10,248110
+Female,Widowed,Self-employed,High School,Personal,56,340170,31,1083981
+Female,Widowed,Salaried,PhD,Education,52,131668,21,1447921
+Female,Widowed,Unemployed,High School,Education,35,776988,41,464627
+Female,Divorced,Salaried,High School,Personal,59,428734,33,755937
+Male,Single,Salaried,Bachelor,Business,56,558333,59,328011
+Female,Married,Salaried,PhD,Medical,34,191948,34,1685365
+Female,Married,Unemployed,PhD,Personal,31,495662,52,1243914
+Male,Widowed,Self-employed,Diploma,Education,48,624390,17,1924430
+Male,Divorced,Self-employed,PhD,Business,41,324063,42,740568
+Female,Widowed,Unemployed,High School,Business,52,633729,35,1600330
+Male,Married,Salaried,High School,Medical,61,168175,28,1744408
+Male,Single,Unemployed,Diploma,Business,62,259877,21,1523005
+Male,Divorced,Unemployed,High School,Business,51,963692,19,1761303
+Male,Single,Self-employed,Bachelor,Business,20,146917,15,1878094
+Male,Widowed,Salaried,Diploma,Personal,54,227770,12,609650
+Male,Divorced,Unemployed,High School,Medical,60,964178,50,300449
+Female,Widowed,Self-employed,PhD,Medical,57,652613,57,363732
+Male,Divorced,Self-employed,High School,Housing,43,553625,42,1267933
+Female,Single,Unemployed,PhD,Housing,40,687673,34,1749547
+Female,Married,Self-employed,Master,Business,61,954447,8,830445
+Male,Married,Unemployed,Master,Personal,56,350093,20,255827
+Male,Single,Self-employed,Bachelor,Business,32,796708,41,252918
+Female,Widowed,Unemployed,High School,Education,21,323295,52,1397027
+Female,Single,Unemployed,High School,Business,46,945115,51,1062671
+Male,Married,Unemployed,Master,Business,39,677304,57,392424
+Male,Divorced,Self-employed,Bachelor,Medical,42,849319,24,1511659
+Male,Married,Self-employed,High School,Business,30,615730,18,892955
+Male,Single,Unemployed,High School,Business,35,59847,47,973882
+Male,Widowed,Self-employed,High School,Education,50,68653,26,790045
+Male,Divorced,Unemployed,Master,Medical,33,751432,42,1206245
+Male,Divorced,Unemployed,High School,Business,62,787949,32,782318
+Male,Married,Salaried,Master,Housing,59,328766,57,208998
+Female,Single,Unemployed,Bachelor,Education,61,299954,34,1726079
+Female,Divorced,Salaried,PhD,Medical,19,87842,25,672995
+Male,Single,Self-employed,High School,Business,52,918657,30,1504972
+Male,Married,Salaried,Bachelor,Business,59,282647,11,1715701
+Female,Widowed,Salaried,High School,Business,51,94761,41,295847
+Male,Single,Unemployed,High School,Personal,47,440192,7,1326120
+Male,Divorced,Salaried,PhD,Business,30,922871,27,1964880
+Female,Married,Self-employed,High School,Education,30,808022,37,1026006
+Female,Married,Salaried,Master,Housing,35,526637,21,924168
+Male,Married,Unemployed,High School,Business,49,676246,23,317614
+Male,Single,Self-employed,Diploma,Business,49,940370,10,1326043
+Female,Single,Salaried,Master,Personal,52,338768,59,1244601
+Male,Single,Self-employed,Master,Housing,56,996403,41,1858516
+Female,Married,Salaried,Diploma,Medical,63,698152,35,1006011
+Female,Married,Unemployed,High School,Education,46,412980,50,1610753
+Female,Widowed,Salaried,Bachelor,Housing,46,791198,24,1977977
+Female,Single,Salaried,Master,Business,61,130356,28,1714357
+Female,Widowed,Salaried,PhD,Personal,33,227228,39,842955
+Female,Widowed,Salaried,PhD,Education,61,52727,18,1316571
+Female,Widowed,Self-employed,PhD,Business,64,350615,48,1811126
+Male,Widowed,Self-employed,Bachelor,Personal,27,542356,59,343313
+Male,Single,Salaried,High School,Housing,47,651211,34,1668505
+Female,Divorced,Salaried,Diploma,Personal,42,410511,41,204062
+Male,Married,Salaried,Bachelor,Business,56,444376,27,1652525
+Male,Single,Self-employed,High School,Personal,37,21390,57,1767355
+Male,Single,Self-employed,PhD,Housing,22,641040,57,1899465
+Male,Married,Self-employed,High School,Housing,18,947635,52,904032
+Female,Single,Unemployed,Master,Medical,47,366898,41,1726483
+Male,Single,Salaried,Diploma,Medical,20,348113,14,1436822
+Male,Single,Self-employed,Diploma,Housing,62,680398,44,607373
+Male,Married,Unemployed,High School,Education,31,979831,56,1195640
+Female,Widowed,Unemployed,Master,Personal,47,759078,24,756014
+Male,Widowed,Self-employed,Diploma,Business,21,349208,43,1497922
+Female,Divorced,Self-employed,Diploma,Business,35,31281,11,1728587
+Male,Divorced,Unemployed,High School,Education,54,64189,57,183114
+Female,Widowed,Unemployed,High School,Business,42,272093,52,906566
+Male,Widowed,Self-employed,PhD,Business,18,320655,20,1927990
+Female,Single,Salaried,Master,Education,63,656403,25,541638
+Male,Divorced,Self-employed,PhD,Personal,32,542893,14,1950193
+Male,Single,Self-employed,Bachelor,Medical,26,372462,37,607765
+Male,Single,Unemployed,PhD,Medical,32,404597,9,1737025
+Male,Widowed,Unemployed,PhD,Education,41,994138,55,1937717
+Female,Married,Unemployed,High School,Medical,21,816242,23,734076
+Female,Married,Salaried,Master,Medical,29,259415,10,1438857
+Male,Single,Salaried,Master,Education,54,689682,25,1921026
+Female,Divorced,Self-employed,Master,Medical,54,51869,28,189133
+Male,Married,Unemployed,PhD,Personal,60,567243,16,1762545
+Female,Single,Salaried,Bachelor,Business,23,595676,42,1396091
+Male,Single,Unemployed,PhD,Education,56,775612,27,815710
+Female,Widowed,Self-employed,PhD,Business,63,20207,9,395165
+Female,Single,Self-employed,PhD,Personal,41,228401,34,1512597
+Female,Married,Self-employed,PhD,Housing,28,995132,49,320001
+Female,Single,Salaried,PhD,Housing,30,169292,39,1765556
+Female,Married,Unemployed,Diploma,Housing,51,487266,18,1631041
+Female,Single,Unemployed,Bachelor,Business,42,506762,47,473327
+Female,Married,Self-employed,Master,Personal,24,215157,14,1350418
+Female,Widowed,Salaried,Bachelor,Medical,21,32031,47,1449298
+Male,Divorced,Unemployed,Master,Business,25,473937,36,1712805
+Female,Married,Unemployed,Bachelor,Housing,37,877239,12,832409
+Female,Single,Self-employed,Bachelor,Housing,46,605600,9,1634690
+Female,Married,Unemployed,High School,Education,62,594054,24,1767826
+Male,Single,Salaried,Diploma,Education,63,153521,47,394572
+Female,Divorced,Salaried,PhD,Housing,27,361977,35,1608859
+Male,Divorced,Self-employed,Master,Business,60,197771,36,700332
+Male,Widowed,Unemployed,PhD,Education,51,247199,40,763391
+Female,Divorced,Unemployed,High School,Personal,43,771019,26,1611232
+Female,Married,Salaried,Master,Medical,58,770129,36,555350
+Male,Single,Unemployed,High School,Housing,20,645329,24,387164
+Male,Widowed,Unemployed,Bachelor,Housing,23,650473,36,1628359
+Female,Divorced,Unemployed,PhD,Education,22,187164,58,1127057
+Female,Single,Self-employed,Diploma,Business,22,466887,37,716627
+Female,Widowed,Salaried,High School,Housing,64,544638,7,954329
+Female,Widowed,Unemployed,Master,Personal,40,761518,57,811062
+Female,Single,Unemployed,PhD,Personal,26,897291,15,187815
+Male,Widowed,Salaried,Diploma,Business,52,523313,7,677763
+Male,Widowed,Self-employed,PhD,Medical,37,795858,7,754133
+Male,Single,Salaried,Bachelor,Personal,59,78487,29,369186
+Male,Single,Self-employed,Bachelor,Personal,52,158694,22,99476
+Male,Married,Unemployed,Diploma,Personal,35,133853,37,1095471
+Female,Widowed,Salaried,PhD,Housing,34,997767,21,1846041
+Male,Divorced,Self-employed,PhD,Medical,41,325261,21,340696
+Female,Married,Salaried,PhD,Medical,20,245062,51,770602
+Female,Divorced,Salaried,Diploma,Education,49,461610,44,1537564
+Male,Widowed,Unemployed,PhD,Business,52,243077,58,734308
+Male,Single,Self-employed,Diploma,Business,55,897516,36,1305959
+Female,Widowed,Salaried,Master,Business,30,33782,48,119093
+Male,Single,Self-employed,Master,Medical,64,519492,29,1691987
+Female,Widowed,Unemployed,Bachelor,Personal,42,824886,6,66535
+Male,Married,Salaried,Bachelor,Personal,26,864336,16,378634
+Male,Divorced,Unemployed,Master,Medical,21,664224,26,1669426
+Male,Divorced,Unemployed,PhD,Business,31,418808,9,1479762
+Male,Widowed,Unemployed,Diploma,Housing,54,163245,12,306323
+Male,Widowed,Unemployed,Master,Medical,51,960708,31,1974088
+Male,Single,Self-employed,High School,Medical,28,963100,52,308916
+Female,Married,Self-employed,Diploma,Education,58,961828,55,763895
+Female,Divorced,Salaried,Diploma,Medical,20,132258,17,1328639
+Female,Divorced,Salaried,Master,Business,45,645956,36,91269
+Male,Divorced,Self-employed,Diploma,Education,46,464418,22,1179250
+Female,Divorced,Self-employed,High School,Medical,26,492616,38,878894
+Male,Single,Self-employed,Bachelor,Personal,20,396328,16,970631
+Female,Widowed,Self-employed,Bachelor,Education,42,516581,33,335291
+Male,Divorced,Self-employed,High School,Business,51,433966,37,488744
+Female,Divorced,Self-employed,PhD,Housing,29,288710,6,1699959
+Female,Widowed,Unemployed,High School,Personal,59,672550,52,818460
+Female,Divorced,Unemployed,Master,Education,26,572621,33,1822867
+Male,Widowed,Self-employed,Bachelor,Medical,32,394073,58,140925
+Male,Widowed,Unemployed,High School,Housing,57,746265,47,640669
+Female,Single,Unemployed,Bachelor,Personal,42,623859,12,1722332
+Female,Widowed,Self-employed,Bachelor,Business,22,130263,7,1340906
+Male,Widowed,Salaried,High School,Education,28,929093,47,1948757
+Female,Married,Salaried,Bachelor,Medical,51,559523,29,1006176
+Male,Divorced,Unemployed,Diploma,Personal,41,10159,9,1112307
+Female,Widowed,Salaried,Diploma,Business,32,677505,49,1485367
+Male,Widowed,Salaried,Diploma,Personal,55,172993,24,1590450
+Female,Married,Salaried,Diploma,Medical,25,377003,31,1673888
+Female,Widowed,Self-employed,PhD,Business,22,157309,16,1739576
+Male,Single,Salaried,Bachelor,Education,43,117507,45,1199697
+Female,Single,Unemployed,Bachelor,Business,35,935748,55,315976
+Male,Widowed,Unemployed,Bachelor,Education,23,24743,48,1655196
+Female,Married,Self-employed,Master,Business,54,762462,16,62467
+Male,Divorced,Salaried,High School,Education,30,56101,50,1139601
+Male,Married,Unemployed,Master,Housing,45,252717,8,1242755
+Female,Single,Unemployed,PhD,Education,22,655822,17,1095851
+Female,Single,Salaried,PhD,Business,30,356371,8,127994
+Male,Widowed,Self-employed,Bachelor,Business,34,240604,47,144202
+Male,Divorced,Self-employed,High School,Education,57,197450,32,617769
+Female,Divorced,Self-employed,High School,Housing,62,867558,54,1494373
+Female,Widowed,Salaried,High School,Medical,49,852503,59,1697982
+Female,Married,Unemployed,Master,Business,46,736481,7,1484730
+Female,Widowed,Salaried,Diploma,Business,20,346907,54,494854
+Male,Divorced,Self-employed,Bachelor,Education,57,497030,21,1746578
+Female,Married,Salaried,Diploma,Personal,51,769710,7,798987
+Female,Single,Unemployed,High School,Personal,57,415453,59,210185
+Female,Married,Self-employed,Master,Housing,44,681009,35,134363
+Female,Single,Unemployed,Master,Housing,30,178785,25,375188
+Male,Divorced,Self-employed,Bachelor,Business,62,214535,43,261027
+Male,Widowed,Unemployed,Bachelor,Personal,50,710769,33,1028534
+Male,Divorced,Self-employed,Bachelor,Education,23,189838,30,323958
+Female,Single,Self-employed,Bachelor,Personal,41,580442,37,1460060
+Female,Single,Self-employed,Master,Business,36,279160,15,322168
+Male,Single,Salaried,Bachelor,Education,33,482779,47,1817224
+Female,Divorced,Self-employed,Bachelor,Medical,57,451904,45,945668
+Male,Single,Self-employed,High School,Personal,45,886110,38,632124
+Male,Single,Self-employed,High School,Housing,50,908488,18,1368155
+Female,Single,Salaried,High School,Housing,58,588526,46,1034588
+Male,Widowed,Unemployed,High School,Medical,30,330752,59,305095
+Male,Married,Salaried,PhD,Housing,60,623369,47,1955609
+Female,Divorced,Salaried,Bachelor,Education,62,257644,52,531632
+Female,Widowed,Salaried,Bachelor,Medical,42,959401,42,1359752
+Female,Married,Unemployed,High School,Personal,59,847393,59,1481591
+Female,Single,Unemployed,High School,Housing,53,209775,21,299717
+Female,Widowed,Unemployed,Bachelor,Medical,44,972261,50,1757343
+Female,Divorced,Self-employed,Bachelor,Personal,55,823349,27,1983951
+Female,Single,Salaried,High School,Medical,24,950240,25,1131516
+Male,Widowed,Self-employed,High School,Personal,22,824422,55,579954
+Male,Single,Self-employed,Master,Personal,60,72551,48,1397842
+Male,Married,Unemployed,Diploma,Medical,62,985665,32,1254740
+Female,Widowed,Unemployed,Bachelor,Personal,48,744983,46,966185
+Male,Divorced,Self-employed,PhD,Medical,40,687800,21,959834
+Female,Married,Self-employed,Master,Education,59,176277,39,256717
+Female,Divorced,Self-employed,Bachelor,Housing,27,90811,37,1461910
+Male,Widowed,Salaried,Master,Business,49,789128,31,1461188
+Female,Widowed,Salaried,High School,Education,60,851535,30,76505
+Female,Widowed,Salaried,Diploma,Education,47,474028,7,1659577
+Female,Divorced,Unemployed,Master,Education,56,969131,17,497603
+Female,Widowed,Salaried,Master,Medical,48,378266,45,879601
+Male,Divorced,Unemployed,Master,Housing,35,244104,14,1302930
+Male,Widowed,Unemployed,Master,Business,53,553296,17,1700375
+Female,Married,Unemployed,PhD,Business,19,212346,31,1019246
+Female,Divorced,Salaried,PhD,Education,31,566690,14,1925530
+Male,Divorced,Salaried,High School,Personal,30,194456,15,262204
+Female,Divorced,Self-employed,PhD,Medical,46,794282,37,1349270
+Female,Widowed,Salaried,Bachelor,Business,29,409009,39,299836
+Male,Divorced,Unemployed,PhD,Personal,56,506043,53,808849
+Female,Married,Self-employed,PhD,Medical,19,146643,25,1984405
+Female,Single,Salaried,Diploma,Medical,49,500083,44,578168
+Male,Single,Unemployed,PhD,Housing,30,943713,7,486670
+Male,Widowed,Self-employed,High School,Business,63,123550,6,1023215
+Male,Married,Unemployed,PhD,Medical,44,494146,56,617827
+Male,Single,Salaried,Master,Personal,58,970652,41,290056
+Female,Married,Unemployed,PhD,Personal,34,101218,29,1317633
+Female,Widowed,Self-employed,Diploma,Housing,57,143296,59,1637663
+Male,Married,Self-employed,Bachelor,Business,48,509909,32,557800
+Female,Widowed,Unemployed,Master,Business,51,528767,7,1203419
+Male,Single,Self-employed,High School,Business,41,189767,36,493942
+Male,Widowed,Salaried,Master,Medical,62,917211,19,98784
+Female,Widowed,Unemployed,Master,Education,52,401858,7,163034
+Male,Widowed,Self-employed,Master,Education,23,775348,34,484044
+Male,Single,Salaried,Master,Business,36,250016,20,1823462
+Male,Divorced,Unemployed,Master,Education,47,42441,17,1152938
+Male,Single,Unemployed,Diploma,Business,24,248038,42,103997
+Male,Widowed,Unemployed,Bachelor,Housing,27,704489,33,231413
+Female,Divorced,Salaried,Diploma,Education,58,765612,25,1510865
+Male,Widowed,Unemployed,Diploma,Medical,49,858800,44,1463119
+Male,Married,Self-employed,Bachelor,Personal,51,626410,29,850981
+Female,Divorced,Self-employed,PhD,Education,45,54760,26,893352
+Male,Divorced,Self-employed,PhD,Business,32,295622,15,790686
+Male,Single,Unemployed,Master,Personal,47,924313,51,1567307
+Male,Married,Self-employed,Master,Education,54,868286,19,834752
+Female,Widowed,Salaried,Diploma,Housing,46,890662,42,1512108
+Female,Widowed,Salaried,PhD,Medical,39,357860,23,207255
+Female,Divorced,Salaried,Bachelor,Medical,21,677540,29,930292
+Male,Single,Unemployed,High School,Personal,37,108538,19,598912
+Male,Married,Self-employed,High School,Housing,49,549660,39,1816451
+Female,Single,Unemployed,PhD,Education,53,826228,17,1857648
+Female,Married,Unemployed,PhD,Personal,21,985776,27,1577573
+Male,Married,Unemployed,PhD,Education,44,521511,11,620993
+Male,Divorced,Salaried,Master,Education,34,231035,41,1712190
+Male,Divorced,Self-employed,High School,Housing,29,895258,50,1518548
+Male,Married,Unemployed,Diploma,Business,39,392736,41,896822
+Female,Married,Self-employed,Bachelor,Medical,34,365779,27,118369
+Male,Divorced,Salaried,Bachelor,Business,27,645310,19,1300469
+Male,Married,Salaried,Bachelor,Housing,18,588328,21,1370309
+Male,Single,Unemployed,High School,Medical,39,871789,41,1735876
+Male,Single,Self-employed,High School,Medical,43,736728,30,1958189
+Male,Divorced,Unemployed,Bachelor,Medical,35,612644,37,750146
+Male,Widowed,Salaried,Master,Medical,31,288355,38,800046
+Male,Widowed,Self-employed,Bachelor,Medical,64,377570,50,697999
+Male,Divorced,Unemployed,Diploma,Medical,46,277986,41,126425
+Male,Married,Salaried,PhD,Business,29,466331,25,546297
+Female,Married,Unemployed,PhD,Education,53,863284,23,1638858
+Female,Married,Salaried,Master,Medical,52,397881,43,1068543
+Male,Widowed,Unemployed,Bachelor,Housing,29,318112,8,161915
+Female,Divorced,Self-employed,Diploma,Personal,24,813940,28,435105
+Male,Single,Unemployed,Diploma,Personal,46,163077,37,533414
+Female,Widowed,Salaried,Master,Business,28,64575,50,1203248
+Male,Widowed,Salaried,High School,Personal,50,483958,21,863071
+Male,Single,Self-employed,Master,Education,23,684331,10,1377925
+Male,Married,Self-employed,Master,Business,64,428815,9,368821
+Female,Married,Self-employed,Master,Personal,32,490808,26,82930
+Female,Married,Unemployed,Diploma,Business,49,601202,45,1171889
+Female,Single,Self-employed,Master,Education,28,783422,56,799211
+Female,Single,Unemployed,Bachelor,Personal,40,601343,19,1211729
+Male,Married,Self-employed,PhD,Personal,43,621985,44,1584301
+Male,Married,Unemployed,Bachelor,Housing,51,640527,36,1903324
+Male,Divorced,Unemployed,Master,Personal,63,245469,19,282911
+Female,Divorced,Unemployed,High School,Medical,51,133106,11,1194634
+Female,Single,Salaried,Diploma,Medical,46,801787,17,137876
+Female,Married,Self-employed,Bachelor,Personal,21,850552,21,659654
+Female,Widowed,Self-employed,Master,Medical,34,477835,22,587691
+Female,Married,Self-employed,Master,Medical,52,310486,50,1440772
+Female,Single,Self-employed,Master,Medical,30,12257,28,822838
+Male,Single,Unemployed,PhD,Education,58,299508,19,311420
+Female,Widowed,Self-employed,Master,Personal,56,690332,12,527843
+Female,Widowed,Salaried,High School,Personal,32,121715,51,385639
+Female,Married,Salaried,High School,Personal,46,36654,37,213004
+Male,Divorced,Salaried,Diploma,Business,46,746129,20,408234
+Male,Widowed,Unemployed,Diploma,Education,28,353567,49,1397421
+Male,Divorced,Salaried,Bachelor,Education,49,301464,22,446601
+Female,Widowed,Salaried,Bachelor,Housing,19,555096,46,1875260
+Male,Widowed,Salaried,PhD,Medical,64,586677,59,631529
+Female,Married,Unemployed,Bachelor,Personal,31,498906,52,715727
+Male,Widowed,Unemployed,High School,Housing,37,128581,49,115030
+Male,Married,Self-employed,Bachelor,Housing,39,137927,39,1800441
+Female,Divorced,Unemployed,Diploma,Education,28,44773,10,1262980
+Male,Divorced,Self-employed,Master,Housing,44,716528,50,1052682
+Female,Widowed,Salaried,Master,Medical,20,430963,32,1305973
+Female,Widowed,Unemployed,Master,Personal,34,348540,57,529702
+Male,Divorced,Salaried,PhD,Business,61,511590,28,1517355
+Male,Widowed,Salaried,High School,Business,45,379836,45,155185
+Female,Divorced,Unemployed,PhD,Personal,46,224764,19,1134980
+Male,Divorced,Salaried,Master,Education,38,591793,20,105182
+Male,Single,Salaried,Bachelor,Education,64,882328,48,1393711
+Female,Widowed,Self-employed,High School,Personal,33,552423,38,1727465
+Female,Widowed,Salaried,PhD,Business,54,625175,58,753023
+Male,Married,Unemployed,Diploma,Personal,37,132118,36,902318
+Female,Single,Self-employed,PhD,Business,23,319521,40,1744866
+Male,Divorced,Salaried,High School,Personal,36,164626,22,395992
+Female,Married,Salaried,Diploma,Medical,22,858923,33,991631
+Male,Married,Self-employed,Diploma,Business,20,983125,24,894124
+Male,Widowed,Unemployed,Bachelor,Housing,18,255739,51,1324037
+Female,Single,Unemployed,High School,Medical,55,854715,59,1922508
+Female,Single,Salaried,High School,Personal,32,488356,28,870217
+Male,Married,Self-employed,High School,Housing,51,289067,37,658434
+Female,Single,Self-employed,PhD,Medical,52,319735,45,1056630
+Male,Divorced,Unemployed,PhD,Housing,42,596549,18,538195
+Female,Married,Self-employed,High School,Personal,41,326480,25,622285
+Female,Widowed,Salaried,PhD,Personal,29,346227,40,1630034
+Male,Divorced,Salaried,High School,Education,35,595236,10,194375
+Male,Divorced,Unemployed,Master,Business,32,250891,14,1432463
+Male,Single,Salaried,Master,Personal,61,174074,34,1569644
+Female,Single,Unemployed,High School,Medical,33,483314,11,85187
+Male,Single,Salaried,Bachelor,Business,44,519452,30,1818970
+Male,Divorced,Self-employed,Diploma,Education,25,298816,36,1039280
+Female,Widowed,Unemployed,High School,Housing,63,800645,27,707253
+Male,Single,Unemployed,Diploma,Education,42,151365,7,1767689
+Male,Single,Salaried,Bachelor,Housing,34,459076,50,1136666
+Male,Divorced,Unemployed,Diploma,Personal,46,72507,10,1032426
+Male,Divorced,Salaried,Diploma,Personal,25,67134,32,1568560
+Male,Widowed,Self-employed,Diploma,Personal,32,143172,30,1944420
+Male,Married,Unemployed,PhD,Education,44,251225,13,827766
+Male,Married,Unemployed,PhD,Business,63,203069,6,1416750
+Male,Single,Salaried,Bachelor,Education,24,824604,25,591797
+Male,Married,Self-employed,Master,Housing,20,816564,49,118653
+Female,Single,Self-employed,PhD,Business,46,783221,28,742289
+Male,Married,Unemployed,Bachelor,Medical,61,814631,37,1490346
+Male,Divorced,Self-employed,Bachelor,Business,41,570897,16,316186
+Female,Divorced,Self-employed,Diploma,Business,20,184037,44,1292222
+Female,Married,Salaried,Bachelor,Personal,37,673376,52,1397921
+Female,Married,Unemployed,PhD,Personal,63,442995,59,1846218
+Male,Single,Salaried,Master,Medical,32,506013,29,1636880
+Female,Divorced,Salaried,Bachelor,Housing,42,304025,16,337166
+Female,Divorced,Self-employed,Master,Housing,47,747954,34,1854898
+Male,Married,Salaried,PhD,Personal,31,820904,59,602226
+Female,Married,Salaried,Master,Education,24,510098,31,1273326
+Male,Single,Salaried,Bachelor,Business,34,717173,21,954603
+Female,Single,Unemployed,PhD,Housing,61,765728,40,310710
+Male,Widowed,Salaried,PhD,Business,37,267803,25,1330896
+Male,Divorced,Unemployed,High School,Medical,53,701381,51,898152
+Female,Married,Salaried,Master,Housing,26,326275,8,1466234
+Male,Widowed,Salaried,Bachelor,Education,55,689447,6,762165
+Female,Married,Self-employed,PhD,Education,39,22828,58,1755922
+Male,Divorced,Salaried,Diploma,Medical,19,989114,52,1175054
+Female,Widowed,Unemployed,Master,Housing,41,893096,6,1503953
+Female,Divorced,Self-employed,Master,Medical,25,526835,22,988193
+Male,Widowed,Unemployed,PhD,Housing,28,666761,7,1225677
+Female,Married,Salaried,Bachelor,Housing,30,811625,34,1455419
+Male,Single,Self-employed,Diploma,Business,34,233461,25,1814860
+Male,Single,Self-employed,High School,Personal,25,448080,11,1593103
+Male,Widowed,Self-employed,Master,Personal,38,423523,13,1459993
+Female,Married,Unemployed,High School,Business,35,374662,34,1828244
+Female,Divorced,Unemployed,High School,Medical,47,291755,53,1855064
+Female,Married,Unemployed,Bachelor,Education,35,709151,56,638033
+Female,Single,Unemployed,PhD,Personal,63,939454,38,1094385
+Male,Divorced,Self-employed,High School,Personal,64,348384,8,1230859
+Female,Widowed,Salaried,Bachelor,Personal,48,249719,40,443445
+Male,Married,Salaried,Diploma,Personal,55,742763,10,1479692
+Male,Widowed,Salaried,High School,Business,49,799177,32,491758
+Male,Married,Self-employed,Master,Education,28,851675,49,1200065
+Male,Widowed,Salaried,Master,Housing,62,276010,17,606107
+Male,Married,Self-employed,High School,Education,42,697605,25,97779
+Female,Married,Unemployed,PhD,Personal,50,447940,50,1836357
+Female,Married,Unemployed,Diploma,Education,55,925113,25,1452964
+Female,Widowed,Salaried,Bachelor,Education,58,605642,14,639872
+Female,Married,Salaried,Diploma,Housing,25,61374,44,1511742
+Male,Single,Self-employed,PhD,Housing,28,124397,9,1769109
+Female,Single,Self-employed,High School,Business,39,258552,56,1347391
+Female,Divorced,Salaried,PhD,Personal,41,396721,59,894464
+Female,Single,Self-employed,PhD,Housing,58,433332,24,427218
+Male,Divorced,Salaried,PhD,Medical,34,877461,43,1459993
+Male,Married,Self-employed,Diploma,Personal,29,890006,32,864468
+Male,Married,Self-employed,Bachelor,Education,63,947951,50,1353533
+Female,Widowed,Salaried,High School,Education,49,302575,48,1694220
+Female,Widowed,Unemployed,Diploma,Personal,32,421124,18,195364
+Male,Widowed,Self-employed,Diploma,Medical,33,39336,18,577340
+Female,Married,Self-employed,Bachelor,Medical,39,837424,27,1405097
+Female,Married,Unemployed,Bachelor,Education,45,65350,33,1297486
+Female,Widowed,Self-employed,Master,Business,37,603849,57,379963
+Male,Single,Unemployed,PhD,Personal,50,520470,52,1998697
+Female,Single,Salaried,Diploma,Education,27,848387,58,1075607
+Male,Divorced,Unemployed,Diploma,Housing,57,71240,50,1245268
+Female,Married,Unemployed,High School,Personal,49,685453,27,1129037
+Female,Divorced,Self-employed,PhD,Personal,50,409371,48,1905758
+Male,Widowed,Self-employed,Master,Medical,19,580895,24,1065930
+Female,Divorced,Salaried,Diploma,Housing,50,960991,13,1108048
+Female,Divorced,Self-employed,Master,Education,50,721028,57,905695
+Male,Married,Self-employed,PhD,Business,58,948467,13,162036
+Male,Widowed,Self-employed,High School,Personal,30,191196,47,238674
+Female,Divorced,Unemployed,Bachelor,Medical,47,325014,31,337667
+Female,Single,Salaried,PhD,Housing,50,459763,53,1784702
+Male,Divorced,Salaried,High School,Personal,30,598398,56,939694
+Female,Single,Self-employed,Diploma,Personal,43,194626,31,640348
+Female,Married,Salaried,Bachelor,Medical,39,686296,28,1369799
+Female,Married,Salaried,Bachelor,Personal,56,389039,48,713759
+Female,Single,Unemployed,PhD,Business,19,538714,18,1421446
+Female,Single,Self-employed,Bachelor,Education,55,754199,33,1453626
+Female,Widowed,Salaried,High School,Housing,56,824038,14,1377252
+Male,Widowed,Self-employed,Master,Personal,43,451048,25,959121
+Male,Widowed,Salaried,High School,Education,63,562439,24,1574149
+Female,Single,Unemployed,Diploma,Personal,32,283452,53,93162
+Male,Married,Unemployed,High School,Housing,51,250853,44,323497
+Female,Married,Self-employed,Bachelor,Personal,59,990026,56,162313
+Female,Divorced,Self-employed,Diploma,Business,61,788883,17,78477
+Female,Divorced,Salaried,Diploma,Housing,57,186743,20,1778506
+Female,Married,Self-employed,Master,Personal,28,100306,36,136373
+Male,Widowed,Salaried,Diploma,Housing,20,759468,19,743464
+Female,Married,Self-employed,Bachelor,Housing,23,903416,16,768730
+Female,Divorced,Unemployed,Diploma,Business,26,536492,31,1627415
+Male,Divorced,Salaried,Diploma,Personal,23,102769,47,118359
+Male,Divorced,Salaried,PhD,Housing,26,97265,32,1546672
+Male,Married,Self-employed,High School,Business,56,827563,16,1242564
+Male,Married,Salaried,Diploma,Personal,48,62428,43,1224726
+Female,Widowed,Self-employed,High School,Medical,49,568158,39,523919
+Female,Married,Unemployed,Diploma,Education,58,637835,48,1795381
+Male,Divorced,Self-employed,High School,Medical,29,770278,24,1408356
+Female,Single,Unemployed,High School,Personal,25,59067,11,1565719
+Male,Married,Salaried,Master,Education,25,986089,51,866117
+Female,Divorced,Salaried,PhD,Medical,45,772371,57,887566
+Male,Divorced,Unemployed,PhD,Personal,37,122217,43,401060
+Female,Single,Salaried,Diploma,Medical,64,949111,54,1206543
+Female,Single,Salaried,High School,Medical,24,428184,47,144455
+Female,Widowed,Self-employed,PhD,Education,28,633222,33,1881699
+Male,Widowed,Self-employed,PhD,Housing,37,152980,6,1559639
+Male,Widowed,Self-employed,Master,Education,33,953927,40,1273981
+Female,Married,Salaried,Diploma,Housing,21,512367,45,289646
+Female,Single,Unemployed,PhD,Business,23,346851,13,239937
+Male,Married,Unemployed,Master,Medical,39,219329,57,522312
+Male,Single,Self-employed,Master,Education,43,267354,59,886188
+Male,Married,Salaried,High School,Medical,20,533406,52,435007
+Female,Widowed,Unemployed,High School,Education,58,71215,12,111192
+Female,Single,Self-employed,PhD,Business,59,721195,16,241758
+Male,Widowed,Self-employed,Diploma,Medical,31,321573,44,885165
+Female,Divorced,Self-employed,PhD,Personal,28,878584,9,1333737
+Male,Single,Unemployed,Bachelor,Education,35,642336,30,862425
+Female,Widowed,Self-employed,Diploma,Medical,29,179530,17,1784428
+Female,Divorced,Unemployed,Diploma,Personal,40,187241,31,1774917
+Female,Single,Salaried,Diploma,Personal,29,148731,43,336287
+Male,Divorced,Self-employed,High School,Education,30,463830,51,1097635
+Male,Widowed,Unemployed,High School,Business,42,774265,17,765637
+Male,Married,Self-employed,Diploma,Housing,62,349384,48,1205620
+Female,Widowed,Salaried,Bachelor,Personal,36,436009,56,1603749
+Female,Widowed,Salaried,Bachelor,Personal,63,123688,58,231062
+Male,Divorced,Salaried,PhD,Housing,53,318617,42,1751270
+Male,Divorced,Self-employed,PhD,Personal,62,893194,51,506104
+Male,Divorced,Unemployed,Diploma,Housing,25,754748,58,119351
+Female,Widowed,Self-employed,Bachelor,Education,46,500834,29,1589164
+Male,Widowed,Unemployed,PhD,Business,49,903388,21,1803935
+Male,Divorced,Salaried,PhD,Education,61,390596,18,284085
+Female,Married,Unemployed,Master,Housing,35,721111,30,808171
+Male,Married,Unemployed,Bachelor,Medical,23,922743,59,548095
+Female,Widowed,Salaried,PhD,Personal,35,744275,59,120309
+Male,Married,Unemployed,Master,Medical,36,981758,57,979950
+Male,Single,Salaried,Diploma,Housing,39,279150,59,736093
+Male,Widowed,Self-employed,Diploma,Business,54,259243,9,1217732
+Female,Married,Salaried,PhD,Business,49,608506,16,388144
+Male,Married,Salaried,Diploma,Personal,58,206416,37,1540424
+Male,Single,Unemployed,PhD,Education,20,961344,54,71576
+Female,Single,Unemployed,Diploma,Business,45,566718,12,1626184
+Male,Widowed,Self-employed,PhD,Personal,27,33091,51,716110
+Female,Divorced,Self-employed,High School,Medical,52,791413,16,677290
+Male,Divorced,Self-employed,Diploma,Business,46,960487,33,1283111
+Male,Widowed,Unemployed,Diploma,Personal,32,558277,59,1125148
+Female,Divorced,Unemployed,High School,Medical,50,85451,46,1085865
+Female,Widowed,Unemployed,High School,Housing,24,28990,28,1378668
+Female,Single,Salaried,Master,Housing,29,362414,50,1618690
+Female,Single,Unemployed,Master,Medical,47,876792,28,690816
+Female,Married,Salaried,High School,Medical,38,260541,55,744186
+Female,Divorced,Salaried,Master,Medical,48,832513,33,139051
+Female,Divorced,Self-employed,PhD,Housing,41,676393,48,864299
+Female,Widowed,Salaried,High School,Medical,37,380416,52,1289879
+Male,Single,Unemployed,Bachelor,Personal,54,812673,31,1845292
+Male,Divorced,Salaried,PhD,Personal,21,134932,30,1880276
+Female,Single,Unemployed,Master,Education,45,278083,59,253305
+Female,Divorced,Unemployed,PhD,Business,61,123000,34,1405398
+Female,Married,Salaried,Master,Business,37,712922,24,1992569
+Female,Widowed,Self-employed,High School,Education,41,569351,38,1897971
+Male,Married,Salaried,Diploma,Business,49,503216,41,507576
+Female,Married,Self-employed,Bachelor,Medical,58,742081,19,623722
+Female,Married,Salaried,High School,Education,53,692405,19,116617
+Female,Widowed,Self-employed,Master,Medical,51,519850,40,691857
+Male,Single,Unemployed,High School,Business,53,447985,35,1830248
+Female,Divorced,Salaried,PhD,Business,19,843550,33,1982360
+Female,Divorced,Self-employed,Master,Housing,32,94703,22,916164
+Male,Married,Unemployed,High School,Housing,51,505164,8,560874
+Female,Widowed,Salaried,Master,Business,53,424841,21,1468368
+Female,Married,Salaried,Master,Housing,23,770084,51,1180070
+Female,Divorced,Unemployed,Diploma,Personal,56,662845,35,1842841
+Male,Divorced,Salaried,Diploma,Housing,59,299220,57,651513
+Female,Divorced,Salaried,High School,Medical,29,263317,34,132867
+Female,Married,Unemployed,PhD,Personal,20,205877,50,218600
+Male,Married,Unemployed,Bachelor,Medical,62,841037,20,829957
+Male,Single,Unemployed,Master,Medical,35,356709,51,1963980
+Female,Married,Self-employed,Master,Housing,57,491725,30,1557394
+Male,Married,Unemployed,High School,Housing,38,835553,56,932693
+Male,Divorced,Salaried,Master,Housing,32,992605,43,665036
+Male,Single,Salaried,Bachelor,Personal,50,827865,47,304265
+Male,Divorced,Salaried,Bachelor,Business,52,577597,52,569493
+Female,Married,Salaried,High School,Business,43,863900,58,214404
+Male,Married,Salaried,PhD,Housing,25,447470,59,960913
+Female,Married,Salaried,Master,Personal,53,863725,57,703817
+Female,Widowed,Unemployed,Diploma,Education,47,368402,43,1046433
+Female,Widowed,Self-employed,Bachelor,Personal,40,965357,28,534353
+Female,Married,Unemployed,High School,Education,59,834837,30,314395
+Male,Single,Unemployed,Master,Business,61,994156,47,1984116
+Female,Widowed,Salaried,PhD,Education,31,577815,12,732387
+Female,Widowed,Unemployed,PhD,Housing,31,873659,27,1195958
+Male,Married,Self-employed,Bachelor,Personal,19,927996,22,529767
+Female,Married,Salaried,Diploma,Medical,54,758778,23,59583
+Male,Single,Self-employed,PhD,Medical,22,149883,54,624675
+Female,Single,Salaried,High School,Housing,55,627632,46,1383824
+Female,Married,Self-employed,PhD,Education,62,165344,15,586512
+Male,Married,Unemployed,Diploma,Medical,58,475226,15,897056
+Female,Single,Self-employed,Diploma,Housing,64,757852,12,1547850
+Male,Married,Self-employed,Bachelor,Medical,31,581441,53,1989328
+Male,Divorced,Unemployed,Diploma,Business,56,118042,55,1326020
+Male,Divorced,Salaried,High School,Medical,42,64110,43,996803
+Male,Widowed,Self-employed,Master,Housing,37,155051,32,1439292
+Female,Married,Unemployed,PhD,Business,19,775419,57,921901
+Male,Married,Unemployed,High School,Education,56,773461,38,1962936
+Female,Married,Salaried,PhD,Education,23,38328,6,1565266
+Male,Single,Salaried,Master,Housing,34,647199,49,1364861
+Female,Single,Unemployed,High School,Education,42,285011,58,728710
+Female,Married,Self-employed,Bachelor,Education,45,69234,39,518298
+Female,Divorced,Salaried,Master,Housing,19,822283,9,1955879
+Female,Single,Unemployed,PhD,Housing,52,827711,22,186149
+Male,Single,Self-employed,Master,Housing,54,782791,9,620303
+Male,Divorced,Unemployed,Master,Business,22,237135,48,1038651
+Male,Widowed,Self-employed,Diploma,Education,18,607690,59,1026684
+Female,Widowed,Self-employed,High School,Housing,57,811881,31,1270505
+Male,Widowed,Self-employed,Bachelor,Education,29,348365,9,806556
+Male,Single,Salaried,Master,Medical,53,885512,6,1289488
+Male,Single,Unemployed,Diploma,Personal,62,539739,12,896334
+Female,Single,Unemployed,Master,Housing,40,97178,35,1104153
+Female,Widowed,Self-employed,Diploma,Personal,64,968820,55,856434
+Female,Divorced,Salaried,Diploma,Medical,48,990568,14,100711
+Female,Divorced,Unemployed,Diploma,Personal,28,860193,40,613739
+Female,Married,Unemployed,Bachelor,Personal,27,246562,13,543027
+Female,Widowed,Unemployed,High School,Medical,20,311014,29,754463
+Female,Married,Unemployed,Master,Housing,31,368710,24,471863
+Male,Single,Unemployed,PhD,Housing,33,395893,41,609119
+Female,Single,Self-employed,Master,Business,27,133765,55,1347978
+Male,Married,Self-employed,Master,Medical,46,397025,57,1854240
+Female,Widowed,Unemployed,PhD,Business,27,958377,48,1981506
+Female,Widowed,Unemployed,High School,Housing,29,138389,32,294942
+Female,Divorced,Unemployed,High School,Education,47,723987,37,145119
+Male,Single,Salaried,High School,Personal,58,207227,19,903262
+Female,Married,Unemployed,Master,Personal,18,502402,23,1441352
+Female,Single,Unemployed,High School,Medical,22,821804,33,873265
+Male,Married,Salaried,Diploma,Medical,37,800074,34,1866330
+Female,Widowed,Self-employed,High School,Medical,25,270220,21,798224
+Male,Widowed,Unemployed,Master,Personal,60,431217,40,1909406
+Female,Married,Self-employed,High School,Personal,29,306208,52,1092137
+Female,Single,Salaried,Bachelor,Housing,18,760186,36,1684418
+Female,Married,Unemployed,High School,Personal,37,810554,9,100755
+Female,Single,Salaried,Master,Medical,45,952324,42,985210
+Male,Married,Self-employed,Master,Personal,60,78431,22,1251988
+Female,Single,Salaried,Master,Personal,54,65745,44,901426
+Male,Single,Salaried,Master,Medical,64,60081,53,1686748
+Male,Single,Unemployed,High School,Housing,54,998406,51,920793
+Male,Single,Self-employed,PhD,Housing,29,936215,31,1640346
+Male,Single,Unemployed,PhD,Housing,54,226204,53,1152801
+Male,Single,Unemployed,High School,Medical,61,946297,44,239921
+Female,Single,Salaried,High School,Business,45,411415,46,1697718
+Female,Divorced,Self-employed,High School,Education,64,610541,9,1664120
+Female,Married,Unemployed,Diploma,Business,32,308335,35,290617
+Male,Single,Unemployed,Diploma,Business,23,806643,35,1207297
+Female,Widowed,Unemployed,High School,Business,61,121086,27,655398
+Male,Married,Self-employed,PhD,Education,37,466285,16,163606
+Male,Widowed,Unemployed,Bachelor,Education,31,984250,7,1637514
+Male,Divorced,Salaried,Master,Business,19,424758,49,1275766
+Male,Married,Self-employed,High School,Education,26,434528,17,1127506
+Female,Widowed,Self-employed,High School,Business,54,448458,35,791067
+Male,Married,Unemployed,PhD,Personal,37,898403,41,310102
+Male,Single,Unemployed,Bachelor,Education,43,628071,23,1461120
+Male,Married,Self-employed,PhD,Education,46,659969,31,1372521
+Female,Divorced,Salaried,PhD,Business,18,622181,58,1674224
+Male,Divorced,Self-employed,Diploma,Personal,52,982892,12,1972916
+Female,Single,Unemployed,High School,Personal,23,509797,6,197631
+Female,Divorced,Salaried,Diploma,Education,54,168763,31,1393054
+Female,Divorced,Self-employed,PhD,Business,22,612248,28,286545
+Female,Widowed,Salaried,PhD,Business,50,880820,31,1111864
+Female,Widowed,Self-employed,High School,Personal,31,32601,50,1776334
+Male,Divorced,Self-employed,Diploma,Personal,29,421236,11,1305878
+Female,Widowed,Salaried,PhD,Education,59,149227,11,1897199
+Female,Married,Salaried,PhD,Education,37,734479,49,330195
+Female,Widowed,Salaried,Diploma,Business,41,702137,13,1160291
+Male,Divorced,Salaried,Diploma,Education,60,291854,29,1109313
+Female,Married,Self-employed,Diploma,Personal,51,380858,27,1688004
+Female,Married,Self-employed,Diploma,Medical,42,689892,24,1779187
+Female,Single,Unemployed,Diploma,Housing,46,663015,42,1280623
+Female,Single,Unemployed,Diploma,Personal,56,946105,23,317291
+Female,Widowed,Unemployed,PhD,Housing,48,597515,36,1673372
+Female,Widowed,Unemployed,Master,Education,64,670327,42,1412944
+Male,Single,Salaried,Master,Business,60,618577,35,1380363
+Male,Married,Unemployed,PhD,Personal,40,161094,47,1399687
+Female,Single,Unemployed,Diploma,Housing,61,446679,38,1066354
+Male,Married,Unemployed,Diploma,Housing,55,740031,15,153535
+Male,Married,Salaried,Master,Personal,37,802154,42,1925741
+Male,Single,Self-employed,PhD,Housing,40,692773,17,1097861
+Female,Married,Salaried,PhD,Medical,62,877482,59,1051507
+Male,Single,Salaried,Master,Education,33,512648,35,1395528
+Male,Widowed,Self-employed,Bachelor,Business,59,768108,32,1611014
+Female,Single,Salaried,Bachelor,Education,25,771282,44,772648
+Female,Married,Salaried,Master,Personal,38,489083,14,633247
+Female,Single,Unemployed,Diploma,Housing,18,355740,59,445065
+Female,Widowed,Unemployed,PhD,Housing,25,863164,26,380322
+Male,Divorced,Salaried,Bachelor,Housing,46,415513,17,772496
+Male,Single,Self-employed,PhD,Housing,49,78323,34,1290388
+Female,Widowed,Salaried,Master,Personal,55,295960,38,1210831
+Male,Divorced,Unemployed,Diploma,Personal,22,574983,48,660610
+Female,Married,Self-employed,Master,Business,64,422918,58,1929573
+Male,Single,Self-employed,Master,Medical,39,428458,20,987687
+Female,Divorced,Salaried,PhD,Education,64,65841,7,1607098
+Female,Single,Salaried,Bachelor,Personal,51,400642,57,1099708
+Male,Married,Salaried,Diploma,Medical,18,208784,44,1792195
+Female,Married,Unemployed,Bachelor,Education,43,117096,58,801972
+Male,Single,Unemployed,Master,Medical,60,102764,49,1948676
+Female,Married,Unemployed,Diploma,Education,27,456790,59,309427
+Male,Widowed,Salaried,Master,Education,47,620032,23,1530355
+Male,Divorced,Self-employed,PhD,Housing,35,824914,8,1584019
+Female,Single,Self-employed,PhD,Education,34,543459,12,1731699
+Female,Widowed,Self-employed,Diploma,Housing,43,635043,48,192003
+Male,Single,Salaried,Master,Housing,25,502148,23,832516
+Male,Divorced,Unemployed,Master,Housing,64,642413,49,1696033
+Female,Married,Unemployed,High School,Personal,57,927154,43,310529
+Female,Single,Salaried,PhD,Housing,29,378226,42,493855
+Female,Widowed,Self-employed,Master,Business,44,13696,38,303608
+Female,Divorced,Unemployed,Diploma,Personal,25,136310,49,808673
+Male,Divorced,Unemployed,Master,Personal,42,947562,36,764261
+Female,Widowed,Self-employed,Diploma,Education,63,685673,16,1723281
+Female,Single,Salaried,Master,Personal,21,815581,9,1623908
+Male,Widowed,Self-employed,Master,Medical,50,926496,23,227763
+Male,Widowed,Salaried,High School,Personal,18,849953,9,281807
+Female,Single,Salaried,Master,Education,36,55740,54,74363
+Female,Divorced,Salaried,Bachelor,Personal,48,116611,39,1407414
+Male,Divorced,Unemployed,PhD,Medical,33,408172,34,444798
+Male,Married,Salaried,PhD,Housing,31,478947,29,1034348
+Female,Divorced,Unemployed,Diploma,Housing,22,485828,27,1906309
+Male,Divorced,Unemployed,Diploma,Housing,58,783210,7,1435049
+Male,Single,Self-employed,Master,Housing,43,338785,49,51620
+Female,Widowed,Unemployed,Bachelor,Medical,45,598099,11,1422944
+Female,Divorced,Salaried,Master,Housing,19,455376,47,1548447
+Female,Divorced,Unemployed,Master,Personal,23,716673,30,1193995
+Male,Divorced,Salaried,Diploma,Personal,26,597520,26,742894
+Male,Single,Salaried,High School,Medical,50,811849,21,1595288
+Female,Single,Salaried,High School,Medical,58,690089,36,1825565
+Male,Divorced,Unemployed,Master,Housing,42,122492,19,1940864
+Female,Married,Salaried,Bachelor,Housing,30,40099,44,230324
+Male,Married,Unemployed,High School,Personal,26,763494,33,1416529
+Male,Divorced,Salaried,PhD,Housing,30,433177,37,1645123
+Female,Widowed,Unemployed,PhD,Business,48,940106,33,70655
+Female,Divorced,Self-employed,Master,Medical,58,652762,56,999133
+Male,Widowed,Unemployed,PhD,Housing,28,281400,54,500400
+Male,Married,Self-employed,Master,Business,21,489336,14,1120178
+Female,Married,Salaried,Master,Medical,51,777876,50,922377
+Female,Married,Salaried,PhD,Business,55,568969,27,716470
+Female,Divorced,Self-employed,Master,Medical,63,101328,37,1985854
+Female,Widowed,Self-employed,Diploma,Medical,21,752800,10,1441538
+Female,Divorced,Salaried,Diploma,Business,55,992293,28,977699
+Male,Single,Salaried,Master,Housing,36,315505,10,575825
+Female,Widowed,Salaried,PhD,Business,23,467719,47,460354
+Female,Widowed,Salaried,High School,Education,51,44540,58,1879074
+Male,Single,Self-employed,High School,Business,35,167608,37,751562
+Male,Divorced,Unemployed,Diploma,Education,30,94700,15,221236
+Male,Divorced,Salaried,Diploma,Personal,58,990547,44,962977
+Male,Married,Unemployed,PhD,Business,40,350676,20,139743
+Female,Married,Salaried,Diploma,Medical,36,721935,12,497875
+Female,Widowed,Self-employed,High School,Business,62,399770,34,1184731
+Female,Married,Unemployed,PhD,Personal,28,406087,52,1188422
+Female,Married,Self-employed,PhD,Housing,18,56002,8,808795
+Male,Divorced,Self-employed,Bachelor,Education,41,59812,24,1391282
+Female,Single,Self-employed,PhD,Education,24,425842,15,864468
+Female,Divorced,Self-employed,Diploma,Medical,42,725339,33,1814688
+Female,Single,Self-employed,Diploma,Education,38,267906,34,910665
+Female,Married,Self-employed,Bachelor,Medical,32,118946,20,657337
+Female,Married,Salaried,High School,Medical,18,76668,40,289647
+Male,Divorced,Salaried,Diploma,Personal,29,109003,11,1429401
+Male,Widowed,Self-employed,Bachelor,Personal,24,745430,17,339962
+Male,Divorced,Unemployed,Master,Medical,32,230462,52,898964
+Female,Widowed,Salaried,Diploma,Housing,38,839430,43,1046140
+Male,Married,Unemployed,PhD,Business,36,729174,18,369849
+Male,Widowed,Unemployed,High School,Business,46,638889,34,594392
+Male,Married,Self-employed,PhD,Personal,42,973111,24,436480
+Male,Married,Salaried,Master,Business,50,279956,8,1750768
+Female,Single,Self-employed,Bachelor,Housing,49,71844,13,1954611
+Male,Divorced,Unemployed,Diploma,Business,52,735453,13,1725363
+Female,Single,Unemployed,Diploma,Personal,61,405395,25,895457
+Female,Single,Self-employed,Master,Personal,55,709158,52,1850200
+Male,Divorced,Self-employed,PhD,Education,43,84601,9,1917325
+Female,Single,Unemployed,High School,Medical,28,935779,56,474632
+Male,Married,Self-employed,Master,Education,52,978078,26,1271660
+Male,Single,Self-employed,PhD,Medical,25,320001,8,1622732
+Female,Single,Self-employed,Bachelor,Business,63,397699,50,1990593
+Female,Single,Unemployed,High School,Business,31,504700,13,1559837
+Female,Divorced,Self-employed,Bachelor,Personal,27,292844,28,1775336
+Female,Single,Salaried,Diploma,Business,19,792215,21,1408990
+Female,Divorced,Self-employed,PhD,Education,63,442680,18,1301717
+Male,Married,Unemployed,High School,Housing,26,183423,8,693703
+Male,Divorced,Unemployed,Master,Medical,20,103330,53,1541625
+Female,Single,Salaried,Master,Education,38,235391,14,1293292
+Female,Widowed,Unemployed,High School,Business,43,223606,19,1703070
+Male,Divorced,Salaried,PhD,Business,25,417085,18,1430188
+Female,Married,Salaried,Diploma,Business,19,201387,58,1080403
+Female,Single,Salaried,High School,Business,23,251133,12,1289121
+Female,Divorced,Self-employed,Diploma,Personal,45,496904,20,1013313
+Male,Widowed,Salaried,High School,Business,46,424170,12,481544
+Male,Divorced,Self-employed,Master,Personal,43,696915,43,1528576
+Female,Divorced,Salaried,PhD,Medical,42,335497,39,1122299
+Female,Married,Self-employed,Bachelor,Housing,29,485406,46,897078
+Female,Widowed,Self-employed,PhD,Medical,22,448242,27,771615
+Female,Divorced,Salaried,PhD,Business,51,372916,29,1622938
+Female,Divorced,Self-employed,Master,Education,54,188048,54,1878109
+Male,Married,Unemployed,High School,Housing,32,363646,42,1387218
+Male,Single,Salaried,PhD,Business,61,386087,49,1819458
+Female,Widowed,Salaried,PhD,Education,53,381994,6,1719745
+Female,Widowed,Self-employed,Bachelor,Personal,32,579383,15,1512333
+Male,Married,Unemployed,Diploma,Personal,60,155342,48,620217
+Female,Married,Unemployed,Diploma,Housing,40,696268,21,173199
+Male,Married,Self-employed,High School,Personal,23,811955,51,1330101
+Female,Married,Salaried,PhD,Housing,63,72433,13,1386748
+Female,Married,Salaried,PhD,Personal,61,974572,54,79545
+Male,Married,Unemployed,Master,Personal,60,554279,30,1702433
+Female,Single,Unemployed,Bachelor,Education,62,282919,55,81673
+Male,Widowed,Unemployed,High School,Education,38,481017,17,474190
+Female,Single,Salaried,High School,Personal,40,357139,30,502115
+Female,Married,Self-employed,Diploma,Business,60,988754,22,1514889
+Female,Widowed,Salaried,PhD,Personal,33,157745,31,938943
+Female,Divorced,Salaried,High School,Education,64,657096,51,1453864
+Female,Divorced,Unemployed,Bachelor,Education,32,692416,53,1425544
+Female,Married,Unemployed,Bachelor,Medical,42,147686,19,73525
+Male,Divorced,Salaried,PhD,Housing,53,17415,46,632092
+Male,Married,Unemployed,Bachelor,Medical,28,780326,41,196115
+Female,Married,Self-employed,Diploma,Education,32,447100,28,616134
+Female,Married,Salaried,PhD,Personal,21,944468,48,1175837
+Male,Single,Self-employed,Diploma,Medical,38,965230,11,807600
+Female,Married,Self-employed,Master,Medical,30,788493,52,550827
+Male,Divorced,Self-employed,Bachelor,Business,39,309188,10,1282676
+Female,Widowed,Salaried,PhD,Education,36,722509,48,1914491
+Male,Married,Unemployed,Bachelor,Education,51,178616,30,57265
+Female,Single,Salaried,Bachelor,Housing,31,59976,23,859195
+Male,Single,Unemployed,Diploma,Education,21,435468,18,1305300
+Male,Widowed,Salaried,PhD,Personal,63,275976,48,65733
+Female,Widowed,Salaried,PhD,Education,44,231883,19,948628
+Female,Divorced,Unemployed,High School,Housing,46,221509,33,1713902
+Female,Married,Self-employed,Master,Business,64,506965,23,349564
+Male,Divorced,Unemployed,Master,Personal,45,830580,33,1076281
+Female,Divorced,Salaried,Master,Medical,52,988744,56,714607
+Male,Single,Salaried,Diploma,Housing,25,773529,32,508365
+Female,Widowed,Self-employed,PhD,Housing,33,528823,37,1119634
+Female,Single,Unemployed,Master,Housing,59,229526,52,296301
+Female,Widowed,Self-employed,PhD,Personal,53,908662,14,1395649
+Male,Widowed,Self-employed,Diploma,Housing,47,357220,45,1051675
+Male,Single,Unemployed,Bachelor,Medical,35,980963,37,212434
+Male,Single,Self-employed,PhD,Education,19,834834,25,660777
+Male,Divorced,Unemployed,PhD,Education,30,723087,33,1707528
+Female,Widowed,Self-employed,High School,Medical,21,48578,38,1801292
+Female,Married,Self-employed,Master,Personal,43,624741,9,127597
+Female,Divorced,Salaried,Master,Personal,42,425534,51,1095384
+Male,Married,Unemployed,High School,Business,47,872147,39,1891049
+Male,Single,Self-employed,Diploma,Housing,28,218859,53,128209
+Female,Single,Self-employed,Master,Education,24,121435,8,1880973
+Female,Single,Salaried,High School,Business,48,750389,31,1291517
+Male,Single,Salaried,High School,Business,61,161538,13,1774995
+Male,Divorced,Salaried,PhD,Medical,27,892174,11,674152
+Male,Married,Salaried,High School,Education,56,55475,21,198620
+Female,Single,Unemployed,Diploma,Housing,30,856574,29,1506870
+Female,Divorced,Self-employed,Bachelor,Personal,48,750520,53,1497211
+Male,Widowed,Salaried,Diploma,Education,24,167636,44,216562
+Male,Widowed,Self-employed,PhD,Medical,59,163484,35,257158
+Male,Married,Salaried,Bachelor,Housing,59,103526,50,689446
+Male,Single,Self-employed,PhD,Medical,53,61001,18,1026264
+Male,Married,Self-employed,Master,Business,37,854081,10,1100044
+Female,Single,Self-employed,High School,Personal,21,202029,30,336453
+Female,Divorced,Self-employed,High School,Medical,24,438733,25,1057787
+Male,Divorced,Salaried,High School,Personal,18,678516,59,1170831
+Male,Divorced,Unemployed,PhD,Housing,61,950568,23,1880942
+Female,Married,Salaried,PhD,Personal,62,559999,52,918331
+Female,Married,Unemployed,Master,Personal,59,564394,23,1651582
+Female,Married,Unemployed,Master,Education,64,861890,7,275409
+Female,Divorced,Unemployed,PhD,Housing,30,944093,15,289967
+Male,Single,Self-employed,Master,Business,39,492488,50,743201
+Female,Divorced,Unemployed,Master,Education,38,402573,55,1041052
+Female,Married,Salaried,High School,Personal,39,227583,52,788925
+Female,Divorced,Salaried,Diploma,Education,45,373898,17,1014164
+Female,Widowed,Self-employed,High School,Housing,26,148286,52,418697
+Male,Single,Self-employed,Diploma,Education,43,237189,18,886713
+Female,Widowed,Self-employed,PhD,Housing,26,136479,55,425595
+Male,Married,Self-employed,Diploma,Education,32,430343,52,1345689
+Male,Married,Unemployed,Master,Housing,27,146213,16,1885775
+Female,Single,Unemployed,PhD,Housing,41,563172,24,1495687
+Male,Widowed,Self-employed,Diploma,Business,59,274852,40,632314
+Male,Single,Unemployed,Diploma,Business,25,814807,44,1665832
+Male,Married,Self-employed,High School,Business,41,549376,58,1794033
+Male,Divorced,Unemployed,Bachelor,Housing,33,329759,31,458548
+Male,Single,Self-employed,Master,Business,43,382282,51,195693
+Male,Widowed,Salaried,Bachelor,Personal,44,710406,19,1699734
+Female,Divorced,Salaried,Bachelor,Business,54,282158,59,1641038
+Male,Widowed,Salaried,Master,Business,21,729785,50,960789
+Female,Widowed,Salaried,PhD,Medical,41,406489,49,935621
+Male,Married,Salaried,Bachelor,Education,36,712495,29,614790
+Male,Divorced,Unemployed,Master,Personal,53,374986,46,348818
+Female,Single,Salaried,High School,Housing,56,958385,6,611548
+Female,Single,Unemployed,Master,Education,27,500238,56,1010002
+Male,Divorced,Salaried,High School,Education,42,88077,48,1821545
+Male,Single,Salaried,PhD,Business,35,149784,27,754824
+Male,Single,Self-employed,Diploma,Education,36,215776,28,646093
+Male,Single,Unemployed,Master,Medical,53,325018,59,245991
+Male,Divorced,Self-employed,Master,Education,27,79087,24,1882500
+Female,Single,Unemployed,Bachelor,Education,50,808729,23,235541
+Female,Single,Self-employed,High School,Education,22,774629,17,67194
+Male,Single,Unemployed,PhD,Housing,64,823560,33,732171
+Female,Divorced,Self-employed,High School,Education,52,602656,33,908809
+Male,Widowed,Unemployed,PhD,Personal,61,753859,38,1753728
+Male,Widowed,Self-employed,Bachelor,Education,51,351102,24,1617529
+Female,Single,Unemployed,Diploma,Education,50,305064,33,618011
+Male,Single,Self-employed,High School,Medical,38,261514,57,1329984
+Male,Widowed,Unemployed,Bachelor,Medical,34,938660,54,518451
+Male,Single,Self-employed,Diploma,Education,39,152180,42,1340689
+Female,Married,Self-employed,Bachelor,Business,54,959349,31,1174874
+Female,Widowed,Unemployed,Bachelor,Business,32,930304,40,633526
+Female,Married,Unemployed,High School,Housing,52,794192,39,309425
+Female,Married,Self-employed,Master,Medical,45,445928,40,1728297
+Male,Widowed,Salaried,PhD,Personal,24,930114,45,560609
+Female,Single,Self-employed,High School,Medical,49,611891,21,1205668
+Female,Divorced,Self-employed,Diploma,Housing,28,43872,43,1362867
+Male,Single,Salaried,Bachelor,Personal,27,282872,18,1328567
+Female,Widowed,Self-employed,High School,Education,26,367246,28,350589
+Male,Divorced,Salaried,Bachelor,Business,31,498535,59,759163
+Male,Divorced,Self-employed,Diploma,Medical,30,394193,27,1290756
+Male,Married,Unemployed,Diploma,Business,42,817015,21,680458
+Female,Divorced,Unemployed,PhD,Housing,19,95774,33,397761
+Female,Single,Self-employed,Diploma,Medical,52,934767,53,263482
+Male,Divorced,Salaried,PhD,Medical,24,398518,40,889934
+Male,Single,Salaried,Diploma,Education,38,208522,50,1739980
+Female,Single,Self-employed,Bachelor,Medical,35,230357,51,874187
+Female,Divorced,Salaried,Diploma,Business,20,422672,13,1762669
+Female,Single,Salaried,PhD,Housing,59,887550,49,845911
+Female,Single,Unemployed,PhD,Business,56,75942,27,649649
+Female,Single,Salaried,PhD,Personal,58,547977,26,1775240
+Male,Single,Salaried,Bachelor,Business,28,960438,31,478910
+Male,Widowed,Unemployed,PhD,Medical,56,567564,45,1222808
+Female,Widowed,Unemployed,Master,Business,41,519565,26,1990594
+Female,Single,Self-employed,High School,Personal,63,532552,30,131171
+Male,Married,Self-employed,Bachelor,Medical,36,636256,46,426295
+Male,Single,Salaried,High School,Personal,21,423089,6,136296
+Female,Widowed,Salaried,Diploma,Personal,43,809482,11,1239138
+Male,Married,Salaried,Diploma,Education,55,600504,28,202324
+Female,Married,Unemployed,High School,Housing,59,749804,56,548506
+Male,Divorced,Self-employed,Diploma,Medical,49,356184,28,712222
+Male,Single,Unemployed,Master,Business,56,555932,48,291535
+Female,Widowed,Unemployed,PhD,Education,62,72021,48,1430679
+Male,Single,Unemployed,Master,Medical,63,702485,28,1502242
+Female,Single,Self-employed,PhD,Medical,53,470115,37,1416742
+Male,Widowed,Salaried,Bachelor,Housing,57,52291,35,833258
+Male,Divorced,Unemployed,Bachelor,Housing,54,438276,18,1946999
+Female,Widowed,Salaried,Bachelor,Business,50,404754,48,1270575
+Female,Single,Unemployed,PhD,Business,53,963680,23,805737
+Male,Married,Salaried,High School,Housing,20,313664,28,1055594
+Female,Married,Self-employed,Master,Business,26,35675,20,1410573
+Female,Divorced,Unemployed,Master,Personal,25,683647,38,1130402
+Male,Married,Unemployed,Master,Housing,50,272318,26,1927887
+Male,Single,Salaried,Diploma,Medical,23,102268,44,1811201
+Female,Married,Self-employed,Bachelor,Housing,58,307142,28,646649
+Male,Single,Unemployed,Bachelor,Business,56,718672,32,290028
+Male,Single,Self-employed,PhD,Housing,21,939616,50,1438710
+Female,Married,Self-employed,Diploma,Education,30,639698,49,1450507
+Male,Married,Self-employed,High School,Education,19,347369,23,1315832
+Female,Divorced,Unemployed,Diploma,Personal,22,841246,29,90736
+Male,Married,Self-employed,PhD,Business,61,357235,56,1385250
+Female,Married,Salaried,Diploma,Business,44,322863,52,259124
+Male,Single,Unemployed,Diploma,Personal,49,139887,45,1276706
+Male,Married,Unemployed,High School,Education,38,306063,56,680368
+Female,Married,Unemployed,Diploma,Medical,25,345299,47,517310
+Female,Married,Self-employed,Bachelor,Business,55,343713,12,1434975
+Male,Widowed,Unemployed,Master,Personal,25,837760,55,710246
+Male,Married,Salaried,High School,Education,20,211554,53,438742
+Male,Divorced,Salaried,Bachelor,Housing,61,821050,25,274793
+Male,Divorced,Salaried,Master,Education,20,568963,32,692911
+Male,Single,Salaried,High School,Housing,39,505010,11,1398107
+Male,Single,Unemployed,Bachelor,Personal,23,815351,32,726935
+Male,Married,Unemployed,High School,Business,19,800605,14,1735124
+Female,Divorced,Self-employed,Master,Personal,40,381513,58,1076153
+Male,Widowed,Salaried,PhD,Housing,61,822832,50,482859
+Male,Single,Unemployed,High School,Business,19,191517,36,1552148
+Female,Married,Unemployed,PhD,Education,55,80305,26,451072
+Female,Divorced,Salaried,High School,Medical,34,702924,31,481385
+Female,Widowed,Self-employed,High School,Business,52,449030,45,741150
+Male,Widowed,Unemployed,Bachelor,Education,51,482963,53,1391708
+Female,Widowed,Self-employed,Bachelor,Personal,40,623079,50,1601771
+Female,Married,Self-employed,Master,Personal,47,169034,18,1437168
+Male,Widowed,Salaried,Bachelor,Education,25,488108,54,1006010
+Female,Widowed,Unemployed,High School,Personal,39,604821,28,1474150
+Male,Single,Salaried,Diploma,Personal,61,197256,25,793264
+Female,Widowed,Self-employed,Master,Business,53,486128,42,510522
+Female,Divorced,Salaried,Master,Personal,22,900023,59,715329
+Male,Single,Unemployed,Diploma,Education,30,675938,58,324548
+Female,Married,Unemployed,High School,Personal,46,665348,33,1500781
+Female,Married,Unemployed,Bachelor,Housing,48,683984,22,508521
+Male,Divorced,Unemployed,High School,Medical,64,835626,33,1527775
+Female,Widowed,Self-employed,Bachelor,Business,33,382047,46,1864220
+Female,Divorced,Salaried,Master,Housing,59,403605,7,220534
+Female,Married,Salaried,PhD,Business,47,371447,30,331504
+Male,Married,Salaried,High School,Housing,33,252188,55,922089
+Female,Widowed,Self-employed,PhD,Medical,29,386047,46,469503
+Male,Widowed,Self-employed,High School,Housing,34,863823,11,246544
+Female,Married,Salaried,Diploma,Education,33,247501,16,1345088
+Female,Divorced,Salaried,Diploma,Housing,29,941298,43,1862901
+Female,Single,Unemployed,PhD,Education,25,330146,11,1132736
+Female,Single,Salaried,Master,Personal,37,307675,50,1367509
+Male,Married,Self-employed,PhD,Housing,20,718175,16,208253
+Female,Widowed,Unemployed,Bachelor,Personal,33,539274,19,719745
+Female,Married,Salaried,Bachelor,Medical,47,828730,7,1967605
+Female,Married,Unemployed,Master,Business,62,273625,45,1164217
+Male,Widowed,Salaried,Diploma,Business,40,852840,8,1929255
+Male,Single,Salaried,Master,Housing,45,210339,58,1709537
+Female,Single,Salaried,High School,Personal,57,656238,40,1329898
+Male,Married,Salaried,Master,Business,22,944339,38,317688
+Female,Single,Salaried,Master,Education,37,135355,29,821143
+Male,Single,Salaried,Diploma,Housing,57,37798,24,456491
+Male,Single,Self-employed,Master,Medical,61,625937,23,1859225
+Male,Widowed,Salaried,Master,Business,18,337031,54,637536
+Female,Married,Unemployed,Bachelor,Medical,47,29477,57,346694
+Male,Single,Self-employed,Bachelor,Housing,38,420482,29,1938701
+Female,Single,Unemployed,Diploma,Housing,37,227400,50,965356
+Male,Single,Unemployed,PhD,Housing,23,227060,40,1511433
+Female,Divorced,Unemployed,Bachelor,Business,39,399959,6,1301397
+Female,Single,Self-employed,Bachelor,Business,35,971030,41,830237
+Male,Divorced,Salaried,Master,Medical,25,521181,30,1965029
+Male,Widowed,Salaried,High School,Business,56,517831,50,1376325
+Female,Widowed,Self-employed,Bachelor,Education,49,923858,54,546389
+Female,Married,Self-employed,PhD,Business,50,415105,48,100713
+Female,Widowed,Self-employed,Diploma,Housing,33,296479,39,1512182
+Male,Widowed,Self-employed,High School,Housing,29,938758,30,1436123
+Male,Widowed,Salaried,Master,Housing,55,358754,21,894898
+Male,Single,Salaried,PhD,Housing,51,283586,39,1626845
+Female,Widowed,Salaried,Bachelor,Education,31,842721,34,1038722
+Female,Divorced,Unemployed,Diploma,Medical,53,850179,24,1479958
+Male,Divorced,Unemployed,Master,Medical,50,833759,28,145335
+Female,Widowed,Salaried,Master,Medical,40,943703,24,157441
+Male,Married,Salaried,PhD,Medical,62,344971,30,1115560
+Female,Widowed,Salaried,PhD,Personal,19,640752,21,1748444
+Male,Widowed,Unemployed,Bachelor,Business,58,141184,59,947748
+Male,Married,Self-employed,Diploma,Education,38,97051,56,465976
+Male,Married,Self-employed,Master,Housing,19,160653,14,706884
+Female,Divorced,Unemployed,Bachelor,Personal,44,255300,6,692742
+Male,Divorced,Unemployed,High School,Education,26,594010,47,1147978
+Female,Married,Salaried,Diploma,Business,18,102036,24,141656
+Female,Widowed,Self-employed,Bachelor,Housing,28,762922,38,115614
+Female,Divorced,Salaried,Master,Medical,20,157595,39,216963
+Male,Single,Unemployed,Bachelor,Housing,40,863392,21,403153
+Male,Divorced,Unemployed,PhD,Housing,43,782997,49,483048
+Male,Divorced,Unemployed,Master,Personal,21,291696,45,1406556
+Male,Married,Salaried,Bachelor,Housing,35,526612,23,1037938
+Female,Single,Unemployed,PhD,Education,23,151880,39,833077
+Female,Married,Self-employed,High School,Medical,52,245419,30,986066
+Female,Married,Self-employed,Master,Housing,39,164692,50,1032014
+Male,Single,Unemployed,Master,Education,60,273031,11,1753913
+Male,Widowed,Self-employed,Master,Medical,32,303946,26,912839
+Male,Married,Unemployed,Master,Business,39,619312,11,844042
+Female,Single,Unemployed,PhD,Education,54,498765,37,1732245
+Male,Married,Self-employed,Diploma,Personal,59,780097,46,1584710
+Male,Divorced,Self-employed,Master,Medical,29,652927,53,1114367
+Female,Single,Salaried,PhD,Housing,64,914680,48,1156623
+Female,Single,Salaried,PhD,Medical,59,616226,44,1592640
+Female,Widowed,Unemployed,PhD,Medical,55,227813,36,284898
+Male,Widowed,Self-employed,Diploma,Medical,35,786388,47,511122
+Male,Single,Salaried,Bachelor,Business,62,394890,15,725025
+Female,Single,Self-employed,Bachelor,Medical,52,822481,35,120246
+Female,Widowed,Salaried,Diploma,Medical,47,349933,57,1295512
+Female,Divorced,Self-employed,High School,Personal,41,618814,23,1333531
+Female,Widowed,Salaried,Bachelor,Education,59,411062,29,398292
+Male,Single,Salaried,Master,Education,47,493779,57,620178
+Female,Divorced,Salaried,Diploma,Medical,31,507952,14,1498586
+Female,Single,Salaried,High School,Housing,23,580508,36,1655752
+Male,Widowed,Unemployed,Diploma,Education,20,842595,20,1236397
+Female,Divorced,Unemployed,PhD,Medical,33,406981,9,620819
+Male,Widowed,Salaried,Master,Education,24,389270,45,857040
+Female,Single,Self-employed,Bachelor,Housing,31,877918,14,393130
+Male,Married,Unemployed,Diploma,Education,26,972774,50,1087886
+Female,Widowed,Salaried,High School,Business,32,85277,14,396140
+Female,Single,Self-employed,Bachelor,Business,38,529570,31,1678881
+Male,Single,Self-employed,Diploma,Business,52,493455,9,1595739
+Female,Divorced,Self-employed,High School,Business,19,900677,22,107676
+Female,Widowed,Self-employed,High School,Housing,44,132332,21,1634424
+Male,Married,Self-employed,Diploma,Business,19,244231,20,1546193
+Male,Single,Unemployed,PhD,Business,52,557219,40,1149044
+Male,Single,Salaried,High School,Personal,35,99116,57,1083388
+Female,Widowed,Self-employed,High School,Medical,31,261671,10,737823
+Male,Widowed,Self-employed,Master,Business,37,852065,10,999167
+Male,Widowed,Salaried,Diploma,Education,35,483918,25,1036210
+Female,Widowed,Self-employed,PhD,Education,27,586201,20,501989
+Female,Divorced,Salaried,Bachelor,Personal,42,784504,23,869555
+Female,Married,Unemployed,Bachelor,Medical,19,629064,52,1717210
+Male,Married,Salaried,Master,Housing,42,35991,7,715078
+Male,Single,Salaried,Master,Business,50,524265,34,1094281
+Male,Divorced,Unemployed,Diploma,Housing,53,720205,18,767997
+Female,Widowed,Self-employed,PhD,Medical,48,638380,9,1885036
+Male,Married,Unemployed,Bachelor,Housing,31,239577,47,1029874
+Female,Widowed,Unemployed,High School,Housing,18,720672,50,97599
+Female,Divorced,Salaried,Diploma,Medical,63,413777,15,198469
+Female,Married,Salaried,High School,Personal,33,944405,36,290270
+Female,Single,Self-employed,Bachelor,Medical,63,771401,46,1143982
+Female,Widowed,Unemployed,PhD,Housing,20,105556,13,1932665
+Male,Divorced,Self-employed,Diploma,Education,52,859307,8,1166136
+Female,Widowed,Self-employed,PhD,Medical,58,166989,53,566394
+Female,Single,Self-employed,Bachelor,Education,23,334264,51,1727007
+Male,Married,Self-employed,High School,Business,42,405204,14,570112
+Female,Married,Self-employed,PhD,Business,30,516961,35,1243151
+Female,Single,Salaried,High School,Medical,51,906473,58,1153519
+Male,Divorced,Self-employed,High School,Housing,25,662755,16,1174415
+Female,Divorced,Unemployed,PhD,Business,38,530616,40,656962
+Female,Married,Self-employed,Bachelor,Medical,51,417472,42,599633
+Female,Married,Self-employed,High School,Housing,21,390634,47,1348071
+Male,Divorced,Unemployed,Bachelor,Housing,42,753088,18,1148966
+Male,Single,Unemployed,PhD,Education,32,660443,41,1848977
+Male,Divorced,Unemployed,PhD,Personal,21,300374,18,371701
+Male,Married,Unemployed,PhD,Education,62,508682,17,1032558
+Female,Divorced,Self-employed,Master,Medical,29,69778,42,1100482
+Male,Married,Salaried,Master,Education,49,55833,15,1007671
+Female,Divorced,Salaried,High School,Personal,49,819057,14,582249
+Female,Single,Salaried,Diploma,Housing,45,566376,57,1255788
+Female,Single,Unemployed,PhD,Medical,30,745010,12,955721
+Female,Divorced,Salaried,PhD,Medical,48,968671,7,239773
+Male,Divorced,Self-employed,Diploma,Medical,31,376081,59,1438287
+Male,Divorced,Salaried,PhD,Medical,37,474507,28,392808
+Female,Married,Self-employed,High School,Housing,35,206375,44,1179775
+Male,Single,Unemployed,High School,Medical,46,86361,45,1883792
+Male,Widowed,Unemployed,Diploma,Personal,23,360373,44,149764
+Male,Widowed,Self-employed,High School,Personal,49,145189,26,1220933
+Female,Married,Self-employed,Diploma,Business,46,624553,28,1441449
+Male,Divorced,Unemployed,Diploma,Education,60,532154,34,471777
+Female,Widowed,Unemployed,Bachelor,Business,19,632006,19,362712
+Female,Widowed,Unemployed,PhD,Education,40,332854,31,945781
+Male,Widowed,Unemployed,Bachelor,Business,36,629164,56,909734
+Female,Widowed,Unemployed,Bachelor,Housing,48,994558,10,1062884
+Male,Married,Unemployed,Bachelor,Medical,22,40949,36,1717832
+Male,Single,Unemployed,Master,Personal,36,950051,30,210576
+Male,Single,Self-employed,Bachelor,Housing,51,747242,36,1922154
+Male,Widowed,Unemployed,PhD,Business,27,864568,55,1663161
+Male,Single,Unemployed,Diploma,Medical,42,121541,25,660682
+Female,Single,Self-employed,Bachelor,Personal,19,729979,49,963605
+Female,Married,Self-employed,High School,Education,28,71842,22,962374
+Male,Married,Unemployed,High School,Medical,48,498019,50,1560399
+Female,Divorced,Self-employed,High School,Medical,32,242930,7,66939
+Female,Married,Self-employed,Bachelor,Housing,26,299134,30,493931
+Female,Single,Salaried,Bachelor,Housing,40,681553,18,356604
+Female,Single,Self-employed,Diploma,Medical,36,302253,44,249294
+Female,Single,Salaried,PhD,Housing,26,140356,33,980170
+Male,Widowed,Salaried,High School,Education,52,946737,47,112119
+Female,Single,Unemployed,PhD,Business,38,778917,11,740681
+Male,Divorced,Self-employed,High School,Personal,26,747090,8,1242834
+Female,Widowed,Unemployed,High School,Medical,45,924565,40,1508251
+Female,Married,Unemployed,Diploma,Personal,63,699870,23,1053750
+Male,Divorced,Self-employed,Bachelor,Medical,24,797738,16,1317403
+Female,Divorced,Salaried,Diploma,Business,33,13849,59,1365777
+Male,Married,Self-employed,Diploma,Housing,33,22360,25,1028167
+Female,Divorced,Salaried,High School,Education,50,383216,10,199805
+Male,Divorced,Unemployed,High School,Education,21,787567,24,1904165
+Male,Married,Unemployed,PhD,Business,21,629055,27,1920038
+Female,Widowed,Self-employed,Bachelor,Education,56,271445,24,200685
+Male,Married,Self-employed,Diploma,Medical,57,711160,52,1731476
+Female,Married,Salaried,Master,Medical,34,531658,21,427224
+Male,Single,Unemployed,PhD,Business,54,440179,29,1968036
+Female,Married,Salaried,Master,Personal,56,64330,46,529498
+Male,Widowed,Unemployed,Diploma,Personal,46,61707,9,1234836
+Female,Married,Unemployed,High School,Business,53,290833,20,288178
+Female,Single,Self-employed,Diploma,Personal,55,563372,30,309418
+Male,Widowed,Salaried,Bachelor,Medical,56,50387,49,79680
+Female,Single,Salaried,PhD,Business,54,871248,40,284433
+Female,Single,Unemployed,Master,Personal,52,536930,19,414446
